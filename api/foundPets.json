@@ -1,0 +1,3497 @@
+[ {
+  "memo" : "Received on: 2016-01-06<p></p> Found Near: 31000 168TH WAY SE, AUBURN WA 98092<p></p> Description: Brn Tabby Spayed Female Domestic Mediumhair Cat<p></p> Age: 8 YEARS<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.117471",
+    "latitude" : "47.323563",
+    "human_address" : "{\"address\":\"31000 168TH WAY SE\",\"city\":\"AUBURN\",\"state\":\"WA\",\"zip\":\"98092\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A485501"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Brn Tabby",
+  "jurisdiction" : "KING COUNTY",
+  "date" : "2016-01-06T00:00:00",
+  "date_type" : "Received on",
+  "city" : "AUBURN",
+  "record_type" : "FOUND",
+  "age" : "8 YEARS",
+  "animal_id" : "A485501",
+  "zip" : "98092",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Spayed Female",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A485501"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "31000 168TH WAY SE",
+  "impound_no" : "K16-086998",
+  "animal_breed" : "Domestic Mediumhair"
+}
+, {
+  "memo" : "Received on: 2015-12-02<p></p> Found Near: 17200 140TH AVE SE, RENTON WA 98058<p></p> Description: Black / White Neutered Male Domestic Shorthair Cat<p></p> Age: 2 YEARS<p></p> Current Location: Meowtropolitan<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.154067",
+    "latitude" : "47.448529",
+    "human_address" : "{\"address\":\"17200 140TH AVE SE\",\"city\":\"RENTON\",\"state\":\"WA\",\"zip\":\"98058\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A421968"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Black / White",
+  "jurisdiction" : "KING COUNTY",
+  "date" : "2015-12-02T00:00:00",
+  "date_type" : "Received on",
+  "city" : "RENTON",
+  "record_type" : "FOUND",
+  "age" : "2 YEARS",
+  "animal_id" : "A421968",
+  "zip" : "98058",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Neutered Male",
+  "animal_name" : "Penguin",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A421968"
+  },
+  "current_location" : "Meowtropolitan",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "17200 140TH AVE SE",
+  "impound_no" : "K15-086366",
+  "animal_breed" : "Domestic Shorthair"
+}
+, {
+  "memo" : "Description: Black lab Female , Found running loose at Black Diamond Baseball field.<p></p>Age: Under 1 year<p></p>Location Found: 27924 144th Ave SE<p></p>Notes: <p></p>Found Date: 01/20/2016<p></p>Finder Address:  Kent Wa 98042",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.149631",
+    "latitude" : "47.351159",
+    "human_address" : "{\"address\":\"27900 144TH AVE SE\",\"city\":\"KENT\",\"state\":\"WA\",\"zip\":\"98042\"}"
+  },
+  "link" : {
+    "url" : "http://petharbor.com/PublicDetail.asp?searchtype=PUBFOUND&view=sysadm.v_animal&shelterlist='KING'&where=type&ID=1505414"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Unknown",
+  "jurisdiction" : "KENT",
+  "date" : "2016-01-20T00:00:00",
+  "date_type" : "Date Found",
+  "city" : "KENT",
+  "record_type" : "FOUND",
+  "age" : "Under 1 year",
+  "animal_id" : "A486551",
+  "zip" : "98042",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Female",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=PUBLIC&ID=1505414"
+  },
+  "current_location" : "In Public Home",
+  "animal_type" : "Dog",
+  "obfuscated_address" : "27900 144TH AVE SE",
+  "impound_no" : "K16-087251",
+  "animal_breed" : "Labrador Retriever"
+}
+, {
+  "memo" : "Received on: 2016-01-16<p></p> Found Near: 19700 11TH PLACE S SAMMAMISH, WA 98075<p></p> Description: Black / White Male Domestic Shorthair Cat<p></p> Age: 2 MONTHS<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "human_address" : "{\"address\":\"19700 11TH PLACE S SAMMAMISH\",\"city\":\"\",\"state\":\"WA\",\"zip\":\"98075\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A486254"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Black / White",
+  "jurisdiction" : "SAMMAMISH",
+  "date" : "2016-01-16T00:00:00",
+  "date_type" : "Received on",
+  "record_type" : "FOUND",
+  "age" : "2 MONTHS",
+  "animal_id" : "A486254",
+  "zip" : "98075",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Male",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A486254"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "19700 11TH PLACE S SAMMAMISH",
+  "impound_no" : "K16-087166",
+  "animal_breed" : "Domestic Shorthair"
+}
+, {
+  "memo" : "Received on: 2016-01-22<p></p> Found Near: RAILROAD AVE, BLACK DIAMOND WA 98010<p></p> Description: Black Female Labrador Retriever Dog<p></p> Age: 5 YEARS<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "human_address" : "{\"address\":\"RAILROAD AVE\",\"city\":\"BLACK DIAMOND\",\"state\":\"WA\",\"zip\":\"98010\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A486555"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Black",
+  "jurisdiction" : "BLACK DIAMOND",
+  "date" : "2016-01-22T00:00:00",
+  "date_type" : "Received on",
+  "city" : "BLACK DIAMOND",
+  "record_type" : "FOUND",
+  "age" : "5 YEARS",
+  "animal_id" : "A486555",
+  "zip" : "98010",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Female",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A486555"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Dog",
+  "obfuscated_address" : "RAILROAD AVE",
+  "impound_no" : "K16-087255",
+  "animal_breed" : "Labrador Retriever"
+}
+, {
+  "memo" : "Description: Blue collar with a loop, no tags, face is mostly brown but has a white stripe down between the eyes and speckled nose.<p></p>Age: Unknown<p></p>Location Found: 3518 s 268th st<p></p>Notes: <p></p>Found Date: 12/15/2015<p></p>Finder Address:  Kent Wa 98032",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.287768",
+    "latitude" : "47.361431",
+    "human_address" : "{\"address\":\"3500 S 268TH ST\",\"city\":\"KENT\",\"state\":\"WA\",\"zip\":\"98032\"}"
+  },
+  "link" : {
+    "url" : "http://petharbor.com/PublicDetail.asp?searchtype=PUBFOUND&view=sysadm.v_animal&shelterlist='KING'&where=type&ID=1490394"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "White / Brown",
+  "jurisdiction" : "KENT",
+  "date" : "2015-12-15T00:00:00",
+  "date_type" : "Date Found",
+  "city" : "KENT",
+  "record_type" : "FOUND",
+  "age" : "Unknown",
+  "animal_id" : "A484328",
+  "zip" : "98032",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Male",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=PUBLIC&ID=1490394"
+  },
+  "current_location" : "In Public Home",
+  "animal_type" : "Dog",
+  "obfuscated_address" : "3500 S 268TH ST",
+  "impound_no" : "K15-086643",
+  "animal_breed" : "Chihuahua - Smooth Coated"
+}
+, {
+  "memo" : "Received on: 2016-01-16<p></p> Found Near: 17400 SE 270TH PL COVINGTON, WA 98042<p></p> Description: White Spayed Female Domestic Mediumhair Cat<p></p> Age: 12 YEARS<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.110103",
+    "latitude" : "47.359368",
+    "human_address" : "{\"address\":\"17400 SE 270TH PL COVINGTON\",\"city\":\"\",\"state\":\"WA\",\"zip\":\"98042\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A486245"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "White",
+  "jurisdiction" : "COVINGTON",
+  "date" : "2016-01-16T00:00:00",
+  "date_type" : "Received on",
+  "record_type" : "FOUND",
+  "age" : "12 YEARS",
+  "animal_id" : "A486245",
+  "zip" : "98042",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Spayed Female",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A486245"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "17400 SE 270TH PL COVINGTON",
+  "impound_no" : "K16-087157",
+  "animal_breed" : "Domestic Mediumhair"
+}
+, {
+  "memo" : "Received on: 2016-01-22<p></p> Found Near: 9800 W JAMES ST, KENT WA 98032<p></p> Description: Brown / Black Male German Shepherd / Chow Chow Dog<p></p> Age: 1 YEAR<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "human_address" : "{\"address\":\"9800 W JAMES ST\",\"city\":\"KENT\",\"state\":\"WA\",\"zip\":\"98032\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A486522"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Brown / Black",
+  "jurisdiction" : "KENT",
+  "date" : "2016-01-22T00:00:00",
+  "obfuscated_longitude" : "-95.712816",
+  "date_type" : "Received on",
+  "city" : "KENT",
+  "record_type" : "FOUND",
+  "age" : "1 YEAR",
+  "animal_id" : "A486522",
+  "obfuscated_latitude" : "37.090608",
+  "zip" : "98032",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Male",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A486522"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Dog",
+  "obfuscated_address" : "9800 W JAMES ST",
+  "impound_no" : "K16-087241",
+  "animal_breed" : "German Shepherd / Chow Chow"
+}
+, {
+  "memo" : "Received on: 2016-01-20<p></p> Found Near: 10800 W JAMES ST, KENT WA 98032<p></p> Description: Tan / Gold Neutered Male Golden Retriever Dog<p></p> Age: 12 YEARS<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "human_address" : "{\"address\":\"10800 W JAMES ST\",\"city\":\"KENT\",\"state\":\"WA\",\"zip\":\"98032\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A486420"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Tan / Gold",
+  "jurisdiction" : "KENT",
+  "date" : "2016-01-20T00:00:00",
+  "obfuscated_longitude" : "-95.712816",
+  "date_type" : "Received on",
+  "city" : "KENT",
+  "record_type" : "FOUND",
+  "age" : "12 YEARS",
+  "animal_id" : "A486420",
+  "obfuscated_latitude" : "37.090608",
+  "zip" : "98032",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Neutered Male",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A486420"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Dog",
+  "obfuscated_address" : "10800 W JAMES ST",
+  "impound_no" : "K16-087214",
+  "animal_breed" : "Golden Retriever"
+}
+, {
+  "memo" : "Received on: 2015-11-05<p></p> Found Near: 2600 CENTER ST, TACOMA WA 98409<p></p> Description: Black / White Spayed Female Domestic Shorthair Cat<p></p> Age: 11 YEARS<p></p> Current Location: Kirkland Petco 12040 NE 85TH ST KIRKLAND, WA 98033<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.470527",
+    "latitude" : "47.234286",
+    "human_address" : "{\"address\":\"2600 CENTER ST\",\"city\":\"TACOMA\",\"state\":\"WA\",\"zip\":\"98409\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A480909"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Black / White",
+  "jurisdiction" : "PIERCE COUNTY",
+  "date" : "2015-11-05T00:00:00",
+  "date_type" : "Received on",
+  "city" : "TACOMA",
+  "record_type" : "FOUND",
+  "age" : "11 YEARS",
+  "animal_id" : "A480909",
+  "zip" : "98409",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Spayed Female",
+  "animal_name" : "Yima",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A480909"
+  },
+  "current_location" : "Kirkland Petco 12040 NE 85TH ST KIRKLAND, WA 98033",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "2600 CENTER ST",
+  "impound_no" : "K15-085782",
+  "animal_breed" : "Domestic Shorthair"
+}
+, {
+  "memo" : "Received on: 2015-12-12<p></p> Found Near: 26500 PRINCETON AVE, KENT WA 98032<p></p> Description: Black / White Neutered Male Domestic Mediumhair Cat<p></p> Age: 3 YEARS<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.288697",
+    "latitude" : "47.363677",
+    "human_address" : "{\"address\":\"26500 PRINCETON AVE\",\"city\":\"KENT\",\"state\":\"WA\",\"zip\":\"98032\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A484011"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Black / White",
+  "jurisdiction" : "KENT",
+  "date" : "2015-12-12T00:00:00",
+  "date_type" : "Received on",
+  "city" : "KENT",
+  "record_type" : "FOUND",
+  "age" : "3 YEARS",
+  "animal_id" : "A484011",
+  "zip" : "98032",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Neutered Male",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A484011"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "26500 PRINCETON AVE",
+  "impound_no" : "K15-086557",
+  "animal_breed" : "Domestic Mediumhair"
+}
+, {
+  "memo" : "Received on: 2016-01-24<p></p> Found Near: 34700 SE GREEN RIVER HEADWORKS RD, RAVENSDALE WA 98051<p></p> Description: Gray Tabby Male Domestic Shorthair Cat<p></p> Age: 5 YEARS<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-121.880008",
+    "latitude" : "47.312773",
+    "human_address" : "{\"address\":\"34700 SE GREEN RIVER HEADWORKS RD\",\"city\":\"RAVENSDALE\",\"state\":\"WA\",\"zip\":\"98051\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A486592"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Gray Tabby",
+  "jurisdiction" : "KING COUNTY",
+  "date" : "2016-01-24T00:00:00",
+  "date_type" : "Received on",
+  "city" : "RAVENSDALE",
+  "record_type" : "FOUND",
+  "age" : "5 YEARS",
+  "animal_id" : "A486592",
+  "zip" : "98051",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Male",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A486592"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "34700 SE GREEN RIVER HEADWORKS RD",
+  "impound_no" : "K16-087287",
+  "animal_breed" : "Domestic Shorthair"
+}
+, {
+  "memo" : "Received on: 2016-01-09<p></p> Found Near: 6300 121ST AVE SE, BELLEVUE WA 98006<p></p> Description: Black / White Spayed Female Domestic Shorthair Cat<p></p> Age: 5 YEARS<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.178497",
+    "latitude" : "47.545802",
+    "human_address" : "{\"address\":\"6300 121ST AVE SE\",\"city\":\"BELLEVUE\",\"state\":\"WA\",\"zip\":\"98006\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A485701"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Black / White",
+  "jurisdiction" : "BELLEVUE",
+  "date" : "2016-01-09T00:00:00",
+  "date_type" : "Received on",
+  "city" : "BELLEVUE",
+  "record_type" : "FOUND",
+  "age" : "5 YEARS",
+  "animal_id" : "A485701",
+  "zip" : "98006",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Spayed Female",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A485701"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "6300 121ST AVE SE",
+  "impound_no" : "K16-087050",
+  "animal_breed" : "Domestic Shorthair"
+}
+, {
+  "memo" : "Received on: 2016-01-13<p></p> Found Near: 800 STEVENSON AVE, ENUMCLAW WA 98022<p></p> Description: Orange / White Spayed Female Domestic Mediumhair Cat<p></p> Age: 6 MONTHS<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-121.98802",
+    "latitude" : "47.200662",
+    "human_address" : "{\"address\":\"800 STEVENSON AVE\",\"city\":\"ENUMCLAW\",\"state\":\"WA\",\"zip\":\"98022\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A486126"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Orange / White",
+  "jurisdiction" : "ENUMCLAW",
+  "date" : "2016-01-13T00:00:00",
+  "date_type" : "Received on",
+  "city" : "ENUMCLAW",
+  "record_type" : "FOUND",
+  "age" : "6 MONTHS",
+  "animal_id" : "A486126",
+  "zip" : "98022",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Spayed Female",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A486126"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "800 STEVENSON AVE",
+  "impound_no" : "K16-087126",
+  "animal_breed" : "Domestic Mediumhair"
+}
+, {
+  "memo" : "Received on: 2016-01-03<p></p> Found Near: 29600 34TH AVE S, AUBURN WA 98001<p></p> Description: Black / White Neutered Male Domestic Shorthair Cat<p></p> Age: 3 MONTHS<p></p> Current Location: Cat &amp; Kaboodle<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.289426",
+    "latitude" : "47.336424",
+    "human_address" : "{\"address\":\"29600 34TH AVE S\",\"city\":\"AUBURN\",\"state\":\"WA\",\"zip\":\"98001\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A485193"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Black / White",
+  "jurisdiction" : "KING COUNTY",
+  "date" : "2016-01-03T00:00:00",
+  "date_type" : "Received on",
+  "city" : "AUBURN",
+  "record_type" : "FOUND",
+  "age" : "3 MONTHS",
+  "animal_id" : "A485193",
+  "zip" : "98001",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Neutered Male",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A485193"
+  },
+  "current_location" : "Cat & Kaboodle",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "29600 34TH AVE S",
+  "impound_no" : "K16-086946",
+  "animal_breed" : "Domestic Shorthair"
+}
+, {
+  "memo" : "Received on: 2015-12-30<p></p> Found Near: 18500 160TH AVE NE, WOODINVILLE WA 98072<p></p> Description: Black Male German Shepherd / Mix Dog<p></p> Age: 7 YEARS<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.126087",
+    "latitude" : "47.761588",
+    "human_address" : "{\"address\":\"18500 160TH AVE NE\",\"city\":\"WOODINVILLE\",\"state\":\"WA\",\"zip\":\"98072\"}"
+  },
+  "link" : {
+    "url" : "http://www.kingcounty.gov/safety/regionalAnimalServices/AboutUs.aspx"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Black",
+  "jurisdiction" : "WOODINVILLE",
+  "date" : "2015-12-30T00:00:00",
+  "date_type" : "Received on",
+  "city" : "WOODINVILLE",
+  "record_type" : "FOUND",
+  "age" : "7 YEARS",
+  "animal_id" : "A485102",
+  "zip" : "98072",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Male",
+  "animal_type" : "Dead Dog",
+  "obfuscated_address" : "18500 160TH AVE NE",
+  "impound_no" : "K15-086894",
+  "animal_breed" : "German Shepherd / Mix"
+}
+, {
+  "memo" : "Received on: 2016-01-06<p></p> Found Near: 300 LAKE ST S, KIRKLAND WA 98033<p></p> Description: Black / Gray Neutered Male Domestic Shorthair Cat<p></p> Age: 6 YEARS<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.205622",
+    "latitude" : "47.673414",
+    "human_address" : "{\"address\":\"300 LAKE ST S\",\"city\":\"KIRKLAND\",\"state\":\"WA\",\"zip\":\"98033\"}"
+  },
+  "link" : {
+    "url" : "http://www.kingcounty.gov/safety/regionalAnimalServices/AboutUs.aspx"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Black / Gray",
+  "jurisdiction" : "KIRKLAND",
+  "date" : "2016-01-06T00:00:00",
+  "date_type" : "Received on",
+  "city" : "KIRKLAND",
+  "record_type" : "FOUND",
+  "age" : "6 YEARS",
+  "animal_id" : "A485479",
+  "zip" : "98033",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Neutered Male",
+  "animal_name" : "Quattro",
+  "animal_type" : "Dead Cat",
+  "obfuscated_address" : "300 LAKE ST S",
+  "impound_no" : "K16-086996",
+  "animal_breed" : "Domestic Shorthair"
+}
+, {
+  "memo" : "Received on: 2016-01-09<p></p> Found Near: 36800 SE 47TH PL, FALL CITY WA 98024<p></p> Description: White / Black Neutered Male Australian Cattle Dog / Mix Dog<p></p> Age: 2 YEARS<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-121.848869",
+    "latitude" : "47.55858",
+    "human_address" : "{\"address\":\"36800 SE 47TH PL\",\"city\":\"FALL CITY\",\"state\":\"WA\",\"zip\":\"98024\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A485693"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "White / Black",
+  "jurisdiction" : "KING COUNTY",
+  "date" : "2016-01-09T00:00:00",
+  "date_type" : "Received on",
+  "city" : "FALL CITY",
+  "record_type" : "FOUND",
+  "age" : "2 YEARS",
+  "animal_id" : "A485693",
+  "zip" : "98024",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Neutered Male",
+  "animal_name" : "Koda",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A485693"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Dog",
+  "obfuscated_address" : "36800 SE 47TH PL",
+  "impound_no" : "K16-087045",
+  "animal_breed" : "Australian Cattle Dog / Mix"
+}
+, {
+  "memo" : "Description: Found her in the road near Thomas  High School.  She is very friendly and sweet.<p></p>Age: Unknown<p></p>Location Found: 48th Ave S<p></p>Notes: <p></p>Found Date: 12/20/2015<p></p>Finder Address:  Federal Way/ Auburn Wa 98003",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "human_address" : "{\"address\":\"48TH AVE S\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  },
+  "link" : {
+    "url" : "http://petharbor.com/PublicDetail.asp?searchtype=PUBFOUND&view=sysadm.v_animal&shelterlist='KING'&where=type&ID=1492127"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "animal_color" : "White / Black",
+  "jurisdiction" : "JURISDICTION",
+  "date" : "2015-12-20T00:00:00",
+  "date_type" : "Date Found",
+  "record_type" : "FOUND",
+  "age" : "Unknown",
+  "animal_id" : "A484487",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Female",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=PUBLIC&ID=1492127"
+  },
+  "current_location" : "In Public Home",
+  "animal_type" : "Dog",
+  "obfuscated_address" : "48TH AVE S",
+  "impound_no" : "K15-086732",
+  "animal_breed" : "Shetland Sheepdog"
+}
+, {
+  "memo" : "Received on: 2016-01-03<p></p> Found Near: 29600 34TH AVE S, AUBURN WA 98001<p></p> Description: Black Neutered Male Domestic Shorthair Cat<p></p> Age: 3 MONTHS<p></p> Current Location: Cat &amp; Kaboodle<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.289426",
+    "latitude" : "47.336424",
+    "human_address" : "{\"address\":\"29600 34TH AVE S\",\"city\":\"AUBURN\",\"state\":\"WA\",\"zip\":\"98001\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A485235"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Black",
+  "jurisdiction" : "KING COUNTY",
+  "date" : "2016-01-03T00:00:00",
+  "date_type" : "Received on",
+  "city" : "AUBURN",
+  "record_type" : "FOUND",
+  "age" : "3 MONTHS",
+  "animal_id" : "A485235",
+  "zip" : "98001",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Neutered Male",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A485235"
+  },
+  "current_location" : "Cat & Kaboodle",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "29600 34TH AVE S",
+  "impound_no" : "K16-086971",
+  "animal_breed" : "Domestic Shorthair"
+}
+, {
+  "memo" : "Description: All gray, medium hair, slightly bushy tail, young (3-5 mos). We THINK it's female. No collar, no tags.<p></p>Age: Under 1 year<p></p>Location Found: S. 100th St betw 8th Ave S &amp; 14th Ave S<p></p>Notes: <p></p>Found Date: 01/02/2016<p></p>Finder Address:  Burien WA 98168",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "human_address" : "{\"address\":\"S. 100TH ST BETW 8TH AVE S &amp; 14TH AVE S\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  },
+  "link" : {
+    "url" : "http://petharbor.com/PublicDetail.asp?searchtype=PUBFOUND&view=sysadm.v_animal&shelterlist='KING'&where=type&ID=1497461"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "animal_color" : "Unknown",
+  "jurisdiction" : "JURISDICTION",
+  "date" : "2016-01-02T00:00:00",
+  "date_type" : "Date Found",
+  "record_type" : "FOUND",
+  "age" : "Under 1 year",
+  "animal_id" : "A485185",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Female",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=PUBLIC&ID=1497461"
+  },
+  "current_location" : "In Public Home",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "S. 100TH ST BETW 8TH AVE S & 14TH AVE S",
+  "impound_no" : "K16-086938",
+  "animal_breed" : "Domestic Mediumhair"
+}
+, {
+  "memo" : "Received on: 2015-12-01<p></p> Found Near: 200 153RD PL SE, BELLEVUE WA 98007<p></p> Description: Gray Neutered Male Domestic Shorthair Cat<p></p> Age: 5 YEARS<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.135572",
+    "latitude" : "47.607767",
+    "human_address" : "{\"address\":\"200 153RD PL SE\",\"city\":\"BELLEVUE\",\"state\":\"WA\",\"zip\":\"98007\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A482836"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Gray",
+  "jurisdiction" : "BELLEVUE",
+  "date" : "2015-12-01T00:00:00",
+  "date_type" : "Received on",
+  "city" : "BELLEVUE",
+  "record_type" : "FOUND",
+  "age" : "5 YEARS",
+  "animal_id" : "A482836",
+  "zip" : "98007",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Neutered Male",
+  "animal_name" : "Silver",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A482836"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "200 153RD PL SE",
+  "impound_no" : "K15-086356",
+  "animal_breed" : "Domestic Shorthair"
+}
+, {
+  "memo" : "Received on: 2016-01-16<p></p> Found Near: 19700 11TH PLACE S SAMMAMISH, WA 98075<p></p> Description: Lynx Pt Female Domestic Shorthair Cat<p></p> Age: 2 YEARS<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "human_address" : "{\"address\":\"19700 11TH PLACE S SAMMAMISH\",\"city\":\"\",\"state\":\"WA\",\"zip\":\"98075\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A486257"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Lynx Pt",
+  "jurisdiction" : "SAMMAMISH",
+  "date" : "2016-01-16T00:00:00",
+  "date_type" : "Received on",
+  "record_type" : "FOUND",
+  "age" : "2 YEARS",
+  "animal_id" : "A486257",
+  "zip" : "98075",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Female",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A486257"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "19700 11TH PLACE S SAMMAMISH",
+  "impound_no" : "K16-087168",
+  "animal_breed" : "Domestic Shorthair"
+}
+, {
+  "memo" : "Received on: 2015-12-12<p></p> Found Near: 25500 139TH AVE SE, KENT WA 98042<p></p> Description: Black Neutered Male Domestic Shorthair Cat<p></p> Age: 1 YEAR 1 MONTH<p></p> Current Location: Meowtropolitan<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.155899",
+    "latitude" : "47.373097",
+    "human_address" : "{\"address\":\"25500 139TH AVE SE\",\"city\":\"KENT\",\"state\":\"WA\",\"zip\":\"98042\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A484014"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Black",
+  "jurisdiction" : "KENT",
+  "date" : "2015-12-12T00:00:00",
+  "date_type" : "Received on",
+  "city" : "KENT",
+  "record_type" : "FOUND",
+  "age" : "1 YEAR 1 MONTH",
+  "animal_id" : "A484014",
+  "zip" : "98042",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Neutered Male",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A484014"
+  },
+  "current_location" : "Meowtropolitan",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "25500 139TH AVE SE",
+  "impound_no" : "K15-086559",
+  "animal_breed" : "Domestic Shorthair"
+}
+, {
+  "memo" : "Received on: 2016-01-23<p></p> Found Near: 31600 LAKE SAWYER RD SE, BLACK DIAMOND WA 98010<p></p> Description: Gray / White Unaltered Chicken Bird<p></p> Age: NO AGE<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.037832",
+    "latitude" : "47.318366",
+    "human_address" : "{\"address\":\"31600 LAKE SAWYER RD SE\",\"city\":\"BLACK DIAMOND\",\"state\":\"WA\",\"zip\":\"98010\"}"
+  },
+  "link" : {
+    "url" : "http://www.kingcounty.gov/safety/regionalAnimalServices/AboutUs.aspx"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Gray / White",
+  "jurisdiction" : "KING COUNTY",
+  "date" : "2016-01-23T00:00:00",
+  "obfuscated_longitude" : "-95.712816",
+  "date_type" : "Received on",
+  "city" : "BLACK DIAMOND",
+  "record_type" : "FOUND",
+  "age" : "NO AGE",
+  "animal_id" : "A486581",
+  "obfuscated_latitude" : "37.090608",
+  "zip" : "98010",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Unaltered",
+  "animal_type" : "Dead Bird",
+  "obfuscated_address" : "31600 LAKE SAWYER RD SE",
+  "impound_no" : "K16-087277",
+  "animal_breed" : "Chicken"
+}
+, {
+  "memo" : "Received on: 2016-01-23<p></p> Found Near: 31600 LAKE SAWYER RD SE, BLACK DIAMOND WA 98010<p></p> Description: Tan Unaltered Chicken Bird<p></p> Age: NO AGE<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.037832",
+    "latitude" : "47.318366",
+    "human_address" : "{\"address\":\"31600 LAKE SAWYER RD SE\",\"city\":\"BLACK DIAMOND\",\"state\":\"WA\",\"zip\":\"98010\"}"
+  },
+  "link" : {
+    "url" : "http://www.kingcounty.gov/safety/regionalAnimalServices/AboutUs.aspx"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Tan",
+  "jurisdiction" : "KING COUNTY",
+  "date" : "2016-01-23T00:00:00",
+  "obfuscated_longitude" : "-95.712816",
+  "date_type" : "Received on",
+  "city" : "BLACK DIAMOND",
+  "record_type" : "FOUND",
+  "age" : "NO AGE",
+  "animal_id" : "A486578",
+  "obfuscated_latitude" : "37.090608",
+  "zip" : "98010",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Unaltered",
+  "animal_type" : "Dead Bird",
+  "obfuscated_address" : "31600 LAKE SAWYER RD SE",
+  "impound_no" : "K16-087274",
+  "animal_breed" : "Chicken"
+}
+, {
+  "memo" : "Description: Well behaved, a little timid. Knows sit, down, shake.<p></p>Age: Over 1 year<p></p>Location Found: S 298th St &amp; 43rd Ave S<p></p>Notes: <p></p>Found Date: 12/29/2015<p></p>Finder Address:  Auburn WA 9801",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "human_address" : "{\"address\":\"S 298TH ST &amp; 43RD AVE S\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  },
+  "link" : {
+    "url" : "http://petharbor.com/PublicDetail.asp?searchtype=PUBFOUND&view=sysadm.v_animal&shelterlist='KING'&where=type&ID=1495591"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "animal_color" : "Unknown",
+  "jurisdiction" : "JURISDICTION",
+  "date" : "2015-12-29T00:00:00",
+  "date_type" : "Date Found",
+  "record_type" : "FOUND",
+  "age" : "Over 1 year",
+  "animal_id" : "A485019",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Male",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=PUBLIC&ID=1495591"
+  },
+  "current_location" : "In Public Home",
+  "animal_type" : "Dog",
+  "obfuscated_address" : "S 298TH ST & 43RD AVE S",
+  "impound_no" : "K15-086878",
+  "animal_breed" : "German Shepherd"
+}
+, {
+  "memo" : "Description: Brown tabby, prominent black stripes. Deep golden eyes. White whiskers. Black paws. White chin. Tawny chest. Super soft fur. Very sociable, trusting and extremely affectionate.<p></p>Age: Under 1 year<p></p>Location Found: 71St Ave S &amp; S 130th St<p></p>Notes: <p></p>Found Date: 12/11/2015<p></p>Finder Address:  Skyway Wa 98178",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "human_address" : "{\"address\":\"71ST AVE S &amp; S 130TH ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  },
+  "link" : {
+    "url" : "http://petharbor.com/PublicDetail.asp?searchtype=PUBFOUND&view=sysadm.v_animal&shelterlist='KING'&where=type&ID=1489486"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "animal_color" : "Unknown",
+  "jurisdiction" : "JURISDICTION",
+  "date" : "2015-12-11T00:00:00",
+  "date_type" : "Date Found",
+  "record_type" : "FOUND",
+  "age" : "Under 1 year",
+  "animal_id" : "A484135",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Male",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=PUBLIC&ID=1489486"
+  },
+  "current_location" : "In Public Home",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "71ST AVE S & S 130TH ST",
+  "impound_no" : "K15-086587",
+  "animal_breed" : "Domestic Mediumhair"
+}
+, {
+  "memo" : "Description: Based on Lost pet listing #A484023 we believe this is Purk, Lost from the Crossroads area on 12/11. Extremely thin but affectionate, eating and drinking, and responds well to people. Call to arrange his return.<p></p>Age: Under 1 year<p></p>Location Found: Spiritwood Park (146th Ave SE &amp; SE 15th)<p></p>Notes: <p></p>Found Date: 12/27/2015<p></p>Finder Address:  Bellevue WA 98007",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "human_address" : "{\"address\":\"SPIRITWOOD PARK (146TH AVE SE &amp; SE 15TH)\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  },
+  "link" : {
+    "url" : "http://petharbor.com/PublicDetail.asp?searchtype=PUBFOUND&view=sysadm.v_animal&shelterlist='KING'&where=type&ID=1494878"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "animal_color" : "Black / White",
+  "jurisdiction" : "JURISDICTION",
+  "date" : "2015-12-27T00:00:00",
+  "date_type" : "Date Found",
+  "record_type" : "FOUND",
+  "age" : "Under 1 year",
+  "animal_id" : "A484960",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=PUBLIC&ID=1494878"
+  },
+  "current_location" : "In Public Home",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "SPIRITWOOD PARK (146TH AVE SE & SE 15TH)",
+  "impound_no" : "K15-086849",
+  "animal_breed" : "American Shorthair"
+}
+, {
+  "memo" : "Received on: 2016-01-23<p></p> Found Near: 8500 S 117TH PL, SEATTLE WA 98178<p></p> Description: Tan / White Male Pembroke Welsh Corgi / Mix Dog<p></p> Age: 1 YEAR<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.225438",
+    "latitude" : "47.497541",
+    "human_address" : "{\"address\":\"8500 S 117TH PL\",\"city\":\"SEATTLE\",\"state\":\"WA\",\"zip\":\"98178\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A486566"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Tan / White",
+  "jurisdiction" : "KING COUNTY",
+  "date" : "2016-01-23T00:00:00",
+  "date_type" : "Received on",
+  "city" : "SEATTLE",
+  "record_type" : "FOUND",
+  "age" : "1 YEAR",
+  "animal_id" : "A486566",
+  "zip" : "98178",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Male",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A486566"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Dog",
+  "obfuscated_address" : "8500 S 117TH PL",
+  "impound_no" : "K16-087262",
+  "animal_breed" : "Pembroke Welsh Corgi / Mix"
+}
+, {
+  "memo" : "Description: Female terrier mix. Wheaten, soft fur. Slightly darker color streak along ridge of back. No collar; no chip. Very sweet.<p></p>Age: Over 1 year<p></p>Location Found: No Location Given<p></p>Notes: <p></p>Found Date: 01/10/2016<p></p>Finder Address:  Seattle WA 98146",
+  "link" : {
+    "url" : "http://petharbor.com/PublicDetail.asp?searchtype=PUBFOUND&view=sysadm.v_animal&shelterlist='KING'&where=type&ID=1501187"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "animal_color" : "Brown",
+  "jurisdiction" : "JURISDICTION",
+  "date" : "2016-01-10T00:00:00",
+  "date_type" : "Date Found",
+  "record_type" : "FOUND",
+  "age" : "Over 1 year",
+  "animal_id" : "A485907",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Female",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=PUBLIC&ID=1501187"
+  },
+  "current_location" : "In Public Home",
+  "animal_type" : "Dog",
+  "impound_no" : "K16-087087",
+  "animal_breed" : "Yorkshire Terrier"
+}
+, {
+  "memo" : "Received on: 2016-01-23<p></p> Found Near: 31600 LAKE SAWYER RD SE, BLACK DIAMOND WA 98010<p></p> Description: Gray / White Unaltered Chicken Bird<p></p> Age: NO AGE<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.037832",
+    "latitude" : "47.318366",
+    "human_address" : "{\"address\":\"31600 LAKE SAWYER RD SE\",\"city\":\"BLACK DIAMOND\",\"state\":\"WA\",\"zip\":\"98010\"}"
+  },
+  "link" : {
+    "url" : "http://www.kingcounty.gov/safety/regionalAnimalServices/AboutUs.aspx"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Gray / White",
+  "jurisdiction" : "KING COUNTY",
+  "date" : "2016-01-23T00:00:00",
+  "obfuscated_longitude" : "-95.712816",
+  "date_type" : "Received on",
+  "city" : "BLACK DIAMOND",
+  "record_type" : "FOUND",
+  "age" : "NO AGE",
+  "animal_id" : "A486583",
+  "obfuscated_latitude" : "37.090608",
+  "zip" : "98010",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Unaltered",
+  "animal_type" : "Dead Bird",
+  "obfuscated_address" : "31600 LAKE SAWYER RD SE",
+  "impound_no" : "K16-087279",
+  "animal_breed" : "Chicken"
+}
+, {
+  "memo" : "Received on: 2016-01-13<p></p> Found Near: 23700 63RD AVE S, KENT WA 98032<p></p> Description: Orange / White Neutered Male Domestic Shorthair Cat<p></p> Age: 4 YEARS<p></p> Current Location: Kirkland Petco 12040 NE 85TH ST KIRKLAND, WA 98033<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.256378",
+    "latitude" : "47.389763",
+    "human_address" : "{\"address\":\"23700 63RD AVE S\",\"city\":\"KENT\",\"state\":\"WA\",\"zip\":\"98032\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A486127"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Orange / White",
+  "jurisdiction" : "KENT",
+  "date" : "2016-01-13T00:00:00",
+  "date_type" : "Received on",
+  "city" : "KENT",
+  "record_type" : "FOUND",
+  "age" : "4 YEARS",
+  "animal_id" : "A486127",
+  "zip" : "98032",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Neutered Male",
+  "animal_name" : "Sammy",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A486127"
+  },
+  "current_location" : "Kirkland Petco 12040 NE 85TH ST KIRKLAND, WA 98033",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "23700 63RD AVE S",
+  "impound_no" : "K16-087127",
+  "animal_breed" : "Domestic Shorthair"
+}
+, {
+  "memo" : "Received on: 2016-01-23<p></p> Found Near: 31600 LAKE SAWYER RD SE, BLACK DIAMOND WA 98010<p></p> Description: Tan / White Unaltered Goose Bird<p></p> Age: NO AGE<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.037832",
+    "latitude" : "47.318366",
+    "human_address" : "{\"address\":\"31600 LAKE SAWYER RD SE\",\"city\":\"BLACK DIAMOND\",\"state\":\"WA\",\"zip\":\"98010\"}"
+  },
+  "link" : {
+    "url" : "http://www.kingcounty.gov/safety/regionalAnimalServices/AboutUs.aspx"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Tan / White",
+  "jurisdiction" : "KING COUNTY",
+  "date" : "2016-01-23T00:00:00",
+  "obfuscated_longitude" : "-95.712816",
+  "date_type" : "Received on",
+  "city" : "BLACK DIAMOND",
+  "record_type" : "FOUND",
+  "age" : "NO AGE",
+  "animal_id" : "A486576",
+  "obfuscated_latitude" : "37.090608",
+  "zip" : "98010",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Unaltered",
+  "animal_type" : "Dead Bird",
+  "obfuscated_address" : "31600 LAKE SAWYER RD SE",
+  "impound_no" : "K16-087272",
+  "animal_breed" : "Goose"
+}
+, {
+  "memo" : "Received on: 2016-01-08<p></p> Found Near: 15000 SE 179TH ST, RENTON WA 98058<p></p> Description: Red Spayed Female Dachshund Dog<p></p> Age: 6 YEARS<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.142",
+    "latitude" : "47.443274",
+    "human_address" : "{\"address\":\"15000 SE 179TH ST\",\"city\":\"RENTON\",\"state\":\"WA\",\"zip\":\"98058\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A485635"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Red",
+  "jurisdiction" : "KING COUNTY",
+  "date" : "2016-01-08T00:00:00",
+  "date_type" : "Received on",
+  "city" : "RENTON",
+  "record_type" : "FOUND",
+  "age" : "6 YEARS",
+  "animal_id" : "A485635",
+  "zip" : "98058",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Spayed Female",
+  "animal_name" : "Sasha",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A485635"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Dog",
+  "obfuscated_address" : "15000 SE 179TH ST",
+  "impound_no" : "K16-087033",
+  "animal_breed" : "Dachshund"
+}
+, {
+  "memo" : "Description: well cared for cats.  One orange tabby with bob tail,  one white, gray striped.<p></p>Age: Over 1 year<p></p>Location Found: 8205 SE 36th Street<p></p>Notes: <p></p>Found Date: 01/23/2016<p></p>Finder Address:  Mercer Island Wa 98040",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.229445",
+    "latitude" : "47.578756",
+    "human_address" : "{\"address\":\"8200 SE 36TH ST\",\"city\":\"MERCER ISLAND\",\"state\":\"WA\",\"zip\":\"98040\"}"
+  },
+  "link" : {
+    "url" : "http://petharbor.com/PublicDetail.asp?searchtype=PUBFOUND&view=sysadm.v_animal&shelterlist='KING'&where=type&ID=1505896"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "White",
+  "jurisdiction" : "MERCER ISLAND",
+  "date" : "2016-01-23T00:00:00",
+  "date_type" : "Date Found",
+  "city" : "MERCER ISLAND",
+  "record_type" : "FOUND",
+  "age" : "Over 1 year",
+  "animal_id" : "A486590",
+  "zip" : "98040",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=PUBLIC&ID=1505896"
+  },
+  "current_location" : "In Public Home",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "8200 SE 36TH ST",
+  "impound_no" : "K16-087285",
+  "animal_breed" : "Domestic Shorthair"
+}
+, {
+  "memo" : "Received on: 2016-01-16<p></p> Found Near: 25500 139TH AVE SE, KENT WA 98042<p></p> Description: Orange / White Male Domestic Shorthair Cat<p></p> Age: 6 YEARS<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.155899",
+    "latitude" : "47.373097",
+    "human_address" : "{\"address\":\"25500 139TH AVE SE\",\"city\":\"KENT\",\"state\":\"WA\",\"zip\":\"98042\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A486250"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Orange / White",
+  "jurisdiction" : "KENT",
+  "date" : "2016-01-16T00:00:00",
+  "date_type" : "Received on",
+  "city" : "KENT",
+  "record_type" : "FOUND",
+  "age" : "6 YEARS",
+  "animal_id" : "A486250",
+  "zip" : "98042",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Male",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A486250"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "25500 139TH AVE SE",
+  "impound_no" : "K16-087161",
+  "animal_breed" : "Domestic Shorthair"
+}
+, {
+  "memo" : "Received on: 2016-01-23<p></p> Found Near: 31600 LAKE SAWYER RD SE, BLACK DIAMOND WA 98010<p></p> Description: Red Unaltered Chicken Bird<p></p> Age: NO AGE<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.037832",
+    "latitude" : "47.318366",
+    "human_address" : "{\"address\":\"31600 LAKE SAWYER RD SE\",\"city\":\"BLACK DIAMOND\",\"state\":\"WA\",\"zip\":\"98010\"}"
+  },
+  "link" : {
+    "url" : "http://www.kingcounty.gov/safety/regionalAnimalServices/AboutUs.aspx"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Red",
+  "jurisdiction" : "KING COUNTY",
+  "date" : "2016-01-23T00:00:00",
+  "obfuscated_longitude" : "-95.712816",
+  "date_type" : "Received on",
+  "city" : "BLACK DIAMOND",
+  "record_type" : "FOUND",
+  "age" : "NO AGE",
+  "animal_id" : "A486580",
+  "obfuscated_latitude" : "37.090608",
+  "zip" : "98010",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Unaltered",
+  "animal_type" : "Dead Bird",
+  "obfuscated_address" : "31600 LAKE SAWYER RD SE",
+  "impound_no" : "K16-087276",
+  "animal_breed" : "Chicken"
+}
+, {
+  "memo" : "Received on: 2016-01-23<p></p> Found Near: 42900 212TH AVE SE, ENUMCLAW WA 98022<p></p> Description: Dilute Tor Female Domestic Shorthair Cat<p></p> Age: 10 YEARS<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.059018",
+    "latitude" : "47.216355",
+    "human_address" : "{\"address\":\"42900 212TH AVE SE\",\"city\":\"ENUMCLAW\",\"state\":\"WA\",\"zip\":\"98022\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A486574"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Dilute Tor",
+  "jurisdiction" : "KING COUNTY",
+  "date" : "2016-01-23T00:00:00",
+  "date_type" : "Received on",
+  "city" : "ENUMCLAW",
+  "record_type" : "FOUND",
+  "age" : "10 YEARS",
+  "animal_id" : "A486574",
+  "zip" : "98022",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Female",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A486574"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "42900 212TH AVE SE",
+  "impound_no" : "K16-087270",
+  "animal_breed" : "Domestic Shorthair"
+}
+, {
+  "memo" : "Received on: 2016-01-23<p></p> Found Near: 12000 120TH PL NE, KIRKLAND WA 98034<p></p> Description: Red / Tan Female Shiba Inu Dog<p></p> Age: 10 YEARS<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.179659",
+    "latitude" : "47.707434",
+    "human_address" : "{\"address\":\"12000 120TH PL NE\",\"city\":\"KIRKLAND\",\"state\":\"WA\",\"zip\":\"98034\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A486568"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Red / Tan",
+  "jurisdiction" : "KIRKLAND",
+  "date" : "2016-01-23T00:00:00",
+  "obfuscated_longitude" : "-95.712816",
+  "date_type" : "Received on",
+  "city" : "KIRKLAND",
+  "record_type" : "FOUND",
+  "age" : "10 YEARS",
+  "animal_id" : "A486568",
+  "obfuscated_latitude" : "37.090608",
+  "zip" : "98034",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Female",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A486568"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Dog",
+  "obfuscated_address" : "12000 120TH PL NE",
+  "impound_no" : "K16-087264",
+  "animal_breed" : "Shiba Inu"
+}
+, {
+  "memo" : "Description: This is an intact male, good temperament, collar has scratchings on the sliver plate that look like it may spell &quot;Max&quot;.<p></p>Age: Over 1 year<p></p>Location Found: 14114 SE 192nd ST<p></p>Notes: <p></p>Found Date: 01/06/2016<p></p>Finder Address:  Renton WA 98058",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.152997",
+    "latitude" : "47.430331",
+    "human_address" : "{\"address\":\"14100 SE 192ND ST\",\"city\":\"RENTON\",\"state\":\"WA\",\"zip\":\"98058\"}"
+  },
+  "link" : {
+    "url" : "http://petharbor.com/PublicDetail.asp?searchtype=PUBFOUND&view=sysadm.v_animal&shelterlist='KING'&where=type&ID=1499631"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Brown",
+  "jurisdiction" : "KING COUNTY",
+  "date" : "2016-01-06T00:00:00",
+  "date_type" : "Date Found",
+  "city" : "RENTON",
+  "record_type" : "FOUND",
+  "age" : "Over 1 year",
+  "animal_id" : "A485596",
+  "zip" : "98058",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Male",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=PUBLIC&ID=1499631"
+  },
+  "current_location" : "In Public Home",
+  "animal_type" : "Dog",
+  "obfuscated_address" : "14100 SE 192ND ST",
+  "impound_no" : "K16-087022",
+  "animal_breed" : "Chihuahua - Smooth Coated"
+}
+, {
+  "memo" : "Received on: 2016-01-22<p></p> Found Near: 5300 SLADE WAY, TUKWILA WA 98188<p></p> Description: Sable Female Rabbit Sh Rabbit Sh<p></p> Age: NO AGE<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.267848",
+    "latitude" : "47.457314",
+    "human_address" : "{\"address\":\"5300 SLADE WAY\",\"city\":\"TUKWILA\",\"state\":\"WA\",\"zip\":\"98188\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A486549"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Sable",
+  "jurisdiction" : "TUKWILA",
+  "date" : "2016-01-22T00:00:00",
+  "date_type" : "Received on",
+  "city" : "TUKWILA",
+  "record_type" : "FOUND",
+  "age" : "NO AGE",
+  "animal_id" : "A486549",
+  "zip" : "98188",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Female",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A486549"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Rabbit Sh",
+  "obfuscated_address" : "5300 SLADE WAY",
+  "impound_no" : "K16-087248",
+  "animal_breed" : "Rabbit Sh"
+}
+, {
+  "memo" : "Received on: 2015-12-29<p></p> Found Near: 5700 S 152ND ST, TUKWILA WA 98188<p></p> Description: White / Brown Neutered Male Pit Bull Dog<p></p> Age: 1 YEAR 1 MONTH<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.262616",
+    "latitude" : "47.466802",
+    "human_address" : "{\"address\":\"5700 S 152ND ST\",\"city\":\"TUKWILA\",\"state\":\"WA\",\"zip\":\"98188\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A473576"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "White / Brown",
+  "jurisdiction" : "TUKWILA",
+  "date" : "2015-12-29T00:00:00",
+  "date_type" : "Received on",
+  "city" : "TUKWILA",
+  "record_type" : "FOUND",
+  "age" : "1 YEAR 1 MONTH",
+  "animal_id" : "A473576",
+  "zip" : "98188",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Neutered Male",
+  "animal_name" : "Buddy",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A473576"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Dog",
+  "obfuscated_address" : "5700 S 152ND ST",
+  "impound_no" : "K15-086876",
+  "animal_breed" : "Pit Bull"
+}
+, {
+  "memo" : "Received on: 2016-01-22<p></p> Found Near: 5300 SLADE WAY, TUKWILA WA 98188<p></p> Description: Sable Male Rabbit Sh Rabbit Sh<p></p> Age: NO AGE<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.267848",
+    "latitude" : "47.457314",
+    "human_address" : "{\"address\":\"5300 SLADE WAY\",\"city\":\"TUKWILA\",\"state\":\"WA\",\"zip\":\"98188\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A486548"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Sable",
+  "jurisdiction" : "TUKWILA",
+  "date" : "2016-01-22T00:00:00",
+  "date_type" : "Received on",
+  "city" : "TUKWILA",
+  "record_type" : "FOUND",
+  "age" : "NO AGE",
+  "animal_id" : "A486548",
+  "zip" : "98188",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Male",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A486548"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Rabbit Sh",
+  "obfuscated_address" : "5300 SLADE WAY",
+  "impound_no" : "K16-087247",
+  "animal_breed" : "Rabbit Sh"
+}
+, {
+  "memo" : "Received on: 2016-01-24<p></p> Found Near: 14800 INTERURBAN AVE S, TUKWILA WA 98168<p></p> Description: Gray Female Domestic Mediumhair Cat<p></p> Age: 5 YEARS<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.253737",
+    "latitude" : "47.470187",
+    "human_address" : "{\"address\":\"14800 INTERURBAN AVE S\",\"city\":\"TUKWILA\",\"state\":\"WA\",\"zip\":\"98168\"}"
+  },
+  "link" : {
+    "url" : "http://www.kingcounty.gov/safety/regionalAnimalServices/AboutUs.aspx"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Gray",
+  "jurisdiction" : "TUKWILA",
+  "date" : "2016-01-24T00:00:00",
+  "obfuscated_longitude" : "-95.712816",
+  "date_type" : "Received on",
+  "city" : "TUKWILA",
+  "record_type" : "FOUND",
+  "age" : "5 YEARS",
+  "animal_id" : "A486589",
+  "obfuscated_latitude" : "37.090608",
+  "zip" : "98168",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Female",
+  "animal_type" : "Dead Cat",
+  "obfuscated_address" : "14800 INTERURBAN AVE S",
+  "impound_no" : "K16-087284",
+  "animal_breed" : "Domestic Mediumhair"
+}
+, {
+  "memo" : "Received on: 2016-01-19<p></p> Found Near: 4300 S 177TH ST, SEATAC WA 98188<p></p> Description: Orange Neutered Male Domestic Shorthair Cat<p></p> Age: 6 YEARS<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.278796",
+    "latitude" : "47.444025",
+    "human_address" : "{\"address\":\"4300 S 177TH ST\",\"city\":\"SEATAC\",\"state\":\"WA\",\"zip\":\"98188\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A486396"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Orange",
+  "jurisdiction" : "SEATAC",
+  "date" : "2016-01-19T00:00:00",
+  "date_type" : "Received on",
+  "city" : "SEATAC",
+  "record_type" : "FOUND",
+  "age" : "6 YEARS",
+  "animal_id" : "A486396",
+  "zip" : "98188",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Neutered Male",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A486396"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "4300 S 177TH ST",
+  "impound_no" : "K16-087200",
+  "animal_breed" : "Domestic Shorthair"
+}
+, {
+  "memo" : "Received on: 2016-01-16<p></p> Found Near: 19700 11TH PLACE S SAMMAMISH, WA 98075<p></p> Description: Lynx Pt Female Siamese / Mix Cat<p></p> Age: 2 MONTHS<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "human_address" : "{\"address\":\"19700 11TH PLACE S SAMMAMISH\",\"city\":\"\",\"state\":\"WA\",\"zip\":\"98075\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A486256"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Lynx Pt",
+  "jurisdiction" : "SAMMAMISH",
+  "date" : "2016-01-16T00:00:00",
+  "date_type" : "Received on",
+  "record_type" : "FOUND",
+  "age" : "2 MONTHS",
+  "animal_id" : "A486256",
+  "zip" : "98075",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Female",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A486256"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "19700 11TH PLACE S SAMMAMISH",
+  "impound_no" : "K16-087167",
+  "animal_breed" : "Siamese / Mix"
+}
+, {
+  "memo" : "Received on: 2015-10-28<p></p> Found Near: 14400 56TH AVE S, TUKWILA WA 98168<p></p> Description: Black / White Neutered Male Domestic Shorthair Cat<p></p> Age: 16 YEARS<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.264214",
+    "latitude" : "47.473397",
+    "human_address" : "{\"address\":\"14400 56TH AVE S\",\"city\":\"TUKWILA\",\"state\":\"WA\",\"zip\":\"98168\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A480023"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Black / White",
+  "jurisdiction" : "TUKWILA",
+  "date" : "2015-10-28T00:00:00",
+  "obfuscated_longitude" : "-95.712891",
+  "date_type" : "Received on",
+  "city" : "TUKWILA",
+  "record_type" : "FOUND",
+  "age" : "16 YEARS",
+  "animal_id" : "A480023",
+  "obfuscated_latitude" : "37.09025",
+  "zip" : "98168",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Neutered Male",
+  "animal_name" : "Meatball",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A480023"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "14400 56TH AVE S",
+  "impound_no" : "K15-085552",
+  "animal_breed" : "Domestic Shorthair"
+}
+, {
+  "memo" : "Description: Cat is deceased and in a plastic bag on the northwest corner of the property near the sidewalk.<p></p>Age: Unknown<p></p>Location Found: 12909 East Marginal Way S<p></p>Notes: <p></p>Found Date: 01/06/2016<p></p>Finder Address:  Tukwila WA 98168",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.283605",
+    "latitude" : "47.487405",
+    "human_address" : "{\"address\":\"12900 E MARGINAL WAY S\",\"city\":\"TUKWILA\",\"state\":\"WA\",\"zip\":\"98168\"}"
+  },
+  "link" : {
+    "url" : "http://petharbor.com/PublicDetail.asp?searchtype=PUBFOUND&view=sysadm.v_animal&shelterlist='KING'&where=type&ID=1499250"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Unknown",
+  "jurisdiction" : "TUKWILA",
+  "date" : "2016-01-06T00:00:00",
+  "date_type" : "Date Found",
+  "city" : "TUKWILA",
+  "record_type" : "FOUND",
+  "age" : "Unknown",
+  "animal_id" : "A485525",
+  "zip" : "98168",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=PUBLIC&ID=1499250"
+  },
+  "current_location" : "In Public Home",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "12900 E MARGINAL WAY S",
+  "impound_no" : "K16-087002",
+  "animal_breed" : "Domestic Mediumhair"
+}
+, {
+  "memo" : "Received on: 2016-01-17<p></p> Found Near: 31000 168TH WAY SE, AUBURN WA 98092<p></p> Description: Brn Tabby Spayed Female Domestic Shorthair Cat<p></p> Age: 6 MONTHS<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.117471",
+    "latitude" : "47.323563",
+    "human_address" : "{\"address\":\"31000 168TH WAY SE\",\"city\":\"AUBURN\",\"state\":\"WA\",\"zip\":\"98092\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A486265"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Brn Tabby",
+  "jurisdiction" : "KING COUNTY",
+  "date" : "2016-01-17T00:00:00",
+  "date_type" : "Received on",
+  "city" : "AUBURN",
+  "record_type" : "FOUND",
+  "age" : "6 MONTHS",
+  "animal_id" : "A486265",
+  "zip" : "98092",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Spayed Female",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A486265"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "31000 168TH WAY SE",
+  "impound_no" : "K16-087174",
+  "animal_breed" : "Domestic Shorthair"
+}
+, {
+  "memo" : "Received on: 2016-01-10<p></p> Found Near: 10000 18TH AVE SW, SEATTLE WA 98146<p></p> Description: Calico Spayed Female Domestic Shorthair Cat<p></p> Age: 14 YEARS<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.35737",
+    "latitude" : "47.51277",
+    "human_address" : "{\"address\":\"10000 18TH AVE SW\",\"city\":\"SEATTLE\",\"state\":\"WA\",\"zip\":\"98146\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A485719"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Calico",
+  "jurisdiction" : "KING COUNTY",
+  "date" : "2016-01-10T00:00:00",
+  "date_type" : "Received on",
+  "city" : "SEATTLE",
+  "record_type" : "FOUND",
+  "age" : "14 YEARS",
+  "animal_id" : "A485719",
+  "zip" : "98146",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Spayed Female",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A485719"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "10000 18TH AVE SW",
+  "impound_no" : "K16-087065",
+  "animal_breed" : "Domestic Shorthair"
+}
+, {
+  "memo" : "Received on: 2016-01-22<p></p> Found Near: 4800 131ST AVE SE, BELLEVUE WA 98006<p></p> Description: Tan / Brown Neutered Male French Bulldog Dog<p></p> Age: 2 YEARS<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.165792",
+    "latitude" : "47.559649",
+    "human_address" : "{\"address\":\"4800 131ST AVE SE\",\"city\":\"BELLEVUE\",\"state\":\"WA\",\"zip\":\"98006\"}"
+  },
+  "link" : {
+    "url" : "http://www.kingcounty.gov/safety/regionalAnimalServices/AboutUs.aspx"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Tan / Brown",
+  "jurisdiction" : "BELLEVUE",
+  "date" : "2016-01-22T00:00:00",
+  "date_type" : "Received on",
+  "city" : "BELLEVUE",
+  "record_type" : "FOUND",
+  "age" : "2 YEARS",
+  "animal_id" : "A486230",
+  "zip" : "98006",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Neutered Male",
+  "animal_type" : "Dead Dog",
+  "obfuscated_address" : "4800 131ST AVE SE",
+  "impound_no" : "K16-087250",
+  "animal_breed" : "French Bulldog"
+}
+, {
+  "memo" : "Received on: 2016-01-16<p></p> Found Near: 3000 S 154TH ST, SEATAC WA 98188<p></p> Description: Tan / Red Spayed Female Miniature Poodle / Mix Dog<p></p> Age: 3 YEARS<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.292646",
+    "latitude" : "47.465151",
+    "human_address" : "{\"address\":\"3000 S 154TH ST\",\"city\":\"SEATAC\",\"state\":\"WA\",\"zip\":\"98188\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A486246"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Tan / Red",
+  "jurisdiction" : "SEATAC",
+  "date" : "2016-01-16T00:00:00",
+  "date_type" : "Received on",
+  "city" : "SEATAC",
+  "record_type" : "FOUND",
+  "age" : "3 YEARS",
+  "animal_id" : "A486246",
+  "zip" : "98188",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Spayed Female",
+  "animal_name" : "Sandy",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A486246"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Dog",
+  "obfuscated_address" : "3000 S 154TH ST",
+  "impound_no" : "K16-087156",
+  "animal_breed" : "Miniature Poodle / Mix"
+}
+, {
+  "memo" : "Received on: 2016-01-23<p></p> Found Near: 20500 121ST WAY SE, KENT WA 98031<p></p> Description: Brn Tabby / White Female Domestic Shorthair Cat<p></p> Age: 6 YEARS<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.180237",
+    "latitude" : "47.418318",
+    "human_address" : "{\"address\":\"20500 121ST WAY SE\",\"city\":\"KENT\",\"state\":\"WA\",\"zip\":\"98031\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A486569"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Brn Tabby / White",
+  "jurisdiction" : "KENT",
+  "date" : "2016-01-23T00:00:00",
+  "date_type" : "Received on",
+  "city" : "KENT",
+  "record_type" : "FOUND",
+  "age" : "6 YEARS",
+  "animal_id" : "A486569",
+  "zip" : "98031",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Female",
+  "animal_name" : "Chatty Cathy",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A486569"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "20500 121ST WAY SE",
+  "impound_no" : "K16-087265",
+  "animal_breed" : "Domestic Shorthair"
+}
+, {
+  "memo" : "Description: <p></p>Age: Over 1 year<p></p>Location Found: 282nd Ave SE &amp; KC Fair Grounds<p></p>Notes: <p></p>Found Date: 12/29/2015<p></p>Finder Address:  Enumclaw Wa 98022",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "human_address" : "{\"address\":\"282ND AVE SE &amp; KC FAIR GROUNDS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  },
+  "link" : {
+    "url" : "http://petharbor.com/PublicDetail.asp?searchtype=PUBFOUND&view=sysadm.v_animal&shelterlist='KING'&where=type&ID=1496243"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "animal_color" : "White",
+  "jurisdiction" : "JURISDICTION",
+  "date" : "2015-12-29T00:00:00",
+  "date_type" : "Date Found",
+  "record_type" : "FOUND",
+  "age" : "Over 1 year",
+  "animal_id" : "A485120",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Female",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=PUBLIC&ID=1496243"
+  },
+  "current_location" : "In Public Home",
+  "animal_type" : "Dog",
+  "obfuscated_address" : "282ND AVE SE & KC FAIR GROUNDS",
+  "impound_no" : "K15-086899",
+  "animal_breed" : "Cocker Spaniel"
+}
+, {
+  "memo" : "Description: <p></p>Age: Unknown<p></p>Location Found: Edmonds &amp; 16th<p></p>Notes: <p></p>Found Date: 12/12/2015<p></p>Finder Address:  Renton Wa 98056",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "human_address" : "{\"address\":\"EDMONDS WAY SE &amp; SE 16TH ST\",\"city\":\"RENTON\",\"state\":\"WA\",\"zip\":\"98058\"}"
+  },
+  "link" : {
+    "url" : "http://petharbor.com/PublicDetail.asp?searchtype=PUBFOUND&view=sysadm.v_animal&shelterlist='KING'&where=type&ID=1489470"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Unknown",
+  "jurisdiction" : "RENTON",
+  "date" : "2015-12-12T00:00:00",
+  "date_type" : "Date Found",
+  "city" : "RENTON",
+  "record_type" : "FOUND",
+  "age" : "Unknown",
+  "animal_id" : "A484128",
+  "zip" : "98058",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=PUBLIC&ID=1489470"
+  },
+  "current_location" : "In Public Home",
+  "animal_type" : "Dog",
+  "obfuscated_address" : "EDMONDS WAY SE & SE 16TH ST",
+  "impound_no" : "K15-086585",
+  "animal_breed" : "Siberian Husky"
+}
+, {
+  "memo" : "Received on: 2016-01-23<p></p> Found Near: 42900 212TH AVE SE, ENUMCLAW WA 98022<p></p> Description: Org Tabby / White Male Domestic Shorthair Cat<p></p> Age: 5 YEARS<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.059018",
+    "latitude" : "47.216355",
+    "human_address" : "{\"address\":\"42900 212TH AVE SE\",\"city\":\"ENUMCLAW\",\"state\":\"WA\",\"zip\":\"98022\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A486572"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Org Tabby / White",
+  "jurisdiction" : "KING COUNTY",
+  "date" : "2016-01-23T00:00:00",
+  "date_type" : "Received on",
+  "city" : "ENUMCLAW",
+  "record_type" : "FOUND",
+  "age" : "5 YEARS",
+  "animal_id" : "A486572",
+  "zip" : "98022",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Male",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A486572"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "42900 212TH AVE SE",
+  "impound_no" : "K16-087268",
+  "animal_breed" : "Domestic Shorthair"
+}
+, {
+  "memo" : "Description: Mostly brown, white face with brown stripe, very sweet, quiet, well mannered, great coat &amp; teeth.<p></p>Age: Over 1 year<p></p>Location Found: No Location Given<p></p>Notes: <p></p>Found Date: 01/03/2016<p></p>Finder Address:  Kirkland WA 98034",
+  "link" : {
+    "url" : "http://petharbor.com/PublicDetail.asp?searchtype=PUBFOUND&view=sysadm.v_animal&shelterlist='KING'&where=type&ID=1498061"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "animal_color" : "Brown / White",
+  "jurisdiction" : "JURISDICTION",
+  "date" : "2016-01-03T00:00:00",
+  "date_type" : "Date Found",
+  "record_type" : "FOUND",
+  "age" : "Over 1 year",
+  "animal_id" : "A485208",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Female",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=PUBLIC&ID=1498061"
+  },
+  "current_location" : "In Public Home",
+  "animal_type" : "Dog",
+  "impound_no" : "K16-086959",
+  "animal_breed" : "Australian Cattle Dog"
+}
+, {
+  "memo" : "Description: Older 10+ Yellow lab. Pink collar. Skin tag/Cist on left elbow. Sweet temperament.<p></p>Age: Over 1 year<p></p>Location Found: Lake Hills<p></p>Notes: <p></p>Found Date: 01/02/2016<p></p>Finder Address:  bellevue Wa 98007",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "human_address" : "{\"address\":\"LAKE HILLS\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  },
+  "link" : {
+    "url" : "http://petharbor.com/PublicDetail.asp?searchtype=PUBFOUND&view=sysadm.v_animal&shelterlist='KING'&where=type&ID=1497471"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "animal_color" : "Unknown",
+  "jurisdiction" : "JURISDICTION",
+  "date" : "2016-01-02T00:00:00",
+  "date_type" : "Date Found",
+  "record_type" : "FOUND",
+  "age" : "Over 1 year",
+  "animal_id" : "A485186",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Female",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=PUBLIC&ID=1497471"
+  },
+  "current_location" : "In Public Home",
+  "animal_type" : "Dog",
+  "obfuscated_address" : "LAKE HILLS",
+  "impound_no" : "K16-086939",
+  "animal_breed" : "Labrador Retriever"
+}
+, {
+  "memo" : "Received on: 2016-01-17<p></p> Found Near: 25200 109TH PL SE, KENT WA 98030<p></p> Description: Black / White Neutered Male Domestic Shorthair Cat<p></p> Age: 2 YEARS<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.196685",
+    "latitude" : "47.375327",
+    "human_address" : "{\"address\":\"25200 109TH PL SE\",\"city\":\"KENT\",\"state\":\"WA\",\"zip\":\"98030\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A486270"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Black / White",
+  "jurisdiction" : "KENT",
+  "date" : "2016-01-17T00:00:00",
+  "date_type" : "Received on",
+  "city" : "KENT",
+  "record_type" : "FOUND",
+  "age" : "2 YEARS",
+  "animal_id" : "A486270",
+  "zip" : "98030",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Neutered Male",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A486270"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "25200 109TH PL SE",
+  "impound_no" : "K16-087179",
+  "animal_breed" : "Domestic Shorthair"
+}
+, {
+  "memo" : "Description: Gentle older dog.  Medium size.  Looks like a mix collie, long hair...<p></p>Age: Over 1 year<p></p>Location Found: 18330 SE LAke Holm Road<p></p>Notes: <p></p>Found Date: 01/01/2016<p></p>Finder Address:  Auburn WA 98092",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.097675",
+    "latitude" : "47.300037",
+    "human_address" : "{\"address\":\"18300 SE LAKE HOLM RD\",\"city\":\"AUBURN\",\"state\":\"WA\",\"zip\":\"98092\"}"
+  },
+  "link" : {
+    "url" : "http://petharbor.com/PublicDetail.asp?searchtype=PUBFOUND&view=sysadm.v_animal&shelterlist='KING'&where=type&ID=1496776"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Brown",
+  "jurisdiction" : "KING COUNTY",
+  "date" : "2016-01-01T00:00:00",
+  "date_type" : "Date Found",
+  "city" : "AUBURN",
+  "record_type" : "FOUND",
+  "age" : "Over 1 year",
+  "animal_id" : "A485163",
+  "zip" : "98092",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Male",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=PUBLIC&ID=1496776"
+  },
+  "current_location" : "In Public Home",
+  "animal_type" : "Dog",
+  "obfuscated_address" : "18300 SE LAKE HOLM RD",
+  "impound_no" : "K16-086918",
+  "animal_breed" : "Rough Collie"
+}
+, {
+  "memo" : "Received on: 2016-01-22<p></p> Found Near: 17100 SE 328TH ST, AUBURN WA 98092<p></p> Description: Brn Tabby Male Domestic Longhair Cat<p></p> Age: 5 YEARS<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.115359",
+    "latitude" : "47.307705",
+    "human_address" : "{\"address\":\"17100 SE 328TH ST\",\"city\":\"AUBURN\",\"state\":\"WA\",\"zip\":\"98092\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A486534"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Brn Tabby",
+  "jurisdiction" : "KING COUNTY",
+  "date" : "2016-01-22T00:00:00",
+  "date_type" : "Received on",
+  "city" : "AUBURN",
+  "record_type" : "FOUND",
+  "age" : "5 YEARS",
+  "animal_id" : "A486534",
+  "zip" : "98092",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Male",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A486534"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "17100 SE 328TH ST",
+  "impound_no" : "K16-087246",
+  "animal_breed" : "Domestic Longhair"
+}
+, {
+  "memo" : "Received on: 2016-01-23<p></p> Found Near: 42900 212TH AVE SE, ENUMCLAW WA 98022<p></p> Description: Black Male Domestic Shorthair Cat<p></p> Age: 5 YEARS<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.059018",
+    "latitude" : "47.216355",
+    "human_address" : "{\"address\":\"42900 212TH AVE SE\",\"city\":\"ENUMCLAW\",\"state\":\"WA\",\"zip\":\"98022\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A486571"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Black",
+  "jurisdiction" : "KING COUNTY",
+  "date" : "2016-01-23T00:00:00",
+  "date_type" : "Received on",
+  "city" : "ENUMCLAW",
+  "record_type" : "FOUND",
+  "age" : "5 YEARS",
+  "animal_id" : "A486571",
+  "zip" : "98022",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Male",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A486571"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "42900 212TH AVE SE",
+  "impound_no" : "K16-087267",
+  "animal_breed" : "Domestic Shorthair"
+}
+, {
+  "memo" : "Received on: 2016-01-19<p></p> Found Near: 00 148TH AVE SE, BELLEVUE WA 98007<p></p> Description: Tan Spayed Female Miniature Poodle / Mix Dog<p></p> Age: 8 YEARS<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "human_address" : "{\"address\":\"00 148TH AVE SE\",\"city\":\"BELLEVUE\",\"state\":\"WA\",\"zip\":\"98007\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A486398"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Tan",
+  "jurisdiction" : "BELLEVUE",
+  "date" : "2016-01-19T00:00:00",
+  "date_type" : "Received on",
+  "city" : "BELLEVUE",
+  "record_type" : "FOUND",
+  "age" : "8 YEARS",
+  "animal_id" : "A486398",
+  "zip" : "98007",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Spayed Female",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A486398"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Dog",
+  "obfuscated_address" : "00 148TH AVE SE",
+  "impound_no" : "K16-087203",
+  "animal_breed" : "Miniature Poodle / Mix"
+}
+, {
+  "memo" : "Received on: 2016-01-16<p></p> Found Near: 4000 S 158TH ST, TUKWILA WA 98188<p></p> Description: Tortie Spayed Female Domestic Shorthair Cat<p></p> Age: 1 YEAR<p></p> Current Location: Crossroads #204 Petco 15600 NE 8TH ST BELLEVUE, WA 98008<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.283442",
+    "latitude" : "47.46148",
+    "human_address" : "{\"address\":\"4000 S 158TH ST\",\"city\":\"TUKWILA\",\"state\":\"WA\",\"zip\":\"98188\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A486249"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Tortie",
+  "jurisdiction" : "TUKWILA",
+  "date" : "2016-01-16T00:00:00",
+  "date_type" : "Received on",
+  "city" : "TUKWILA",
+  "record_type" : "FOUND",
+  "age" : "1 YEAR",
+  "animal_id" : "A486249",
+  "zip" : "98188",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Spayed Female",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A486249"
+  },
+  "current_location" : "Crossroads #204 Petco 15600 NE 8TH ST BELLEVUE, WA 98008",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "4000 S 158TH ST",
+  "impound_no" : "K16-087160",
+  "animal_breed" : "Domestic Shorthair"
+}
+, {
+  "memo" : "Received on: 2015-10-29<p></p> Found Near: 19100 34TH AVE S, SEATAC WA 98188<p></p> Description: Gray Tabby / White Spayed Female Domestic Shorthair Cat<p></p> Age: 7 YEARS<p></p> Current Location: Meowtropolitan<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.290384",
+    "latitude" : "47.43169",
+    "human_address" : "{\"address\":\"19100 34TH AVE S\",\"city\":\"SEATAC\",\"state\":\"WA\",\"zip\":\"98188\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A480151"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Gray Tabby / White",
+  "jurisdiction" : "SEATAC",
+  "date" : "2015-10-29T00:00:00",
+  "obfuscated_longitude" : "-95.712892",
+  "date_type" : "Received on",
+  "city" : "SEATAC",
+  "record_type" : "FOUND",
+  "age" : "7 YEARS",
+  "animal_id" : "A480151",
+  "obfuscated_latitude" : "37.090244",
+  "zip" : "98188",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Spayed Female",
+  "animal_name" : "Graycee",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A480151"
+  },
+  "current_location" : "Meowtropolitan",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "19100 34TH AVE S",
+  "impound_no" : "K15-085601",
+  "animal_breed" : "Domestic Shorthair"
+}
+, {
+  "memo" : "Description: Very sweet girl looks well cared for but she is blind and would love to be reunited with her family!<p></p>Age: Over 1 year<p></p>Location Found: 98038<p></p>Notes: <p></p>Found Date: 12/13/2015<p></p>Finder Address:  Maple valley Wa 98038",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.02812",
+    "latitude" : "47.393554",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"98038\"}"
+  },
+  "link" : {
+    "url" : "http://petharbor.com/PublicDetail.asp?searchtype=PUBFOUND&view=sysadm.v_animal&shelterlist='KING'&where=type&ID=1489525"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "animal_color" : "Brown / White",
+  "jurisdiction" : "JURISDICTION",
+  "date" : "2015-12-13T00:00:00",
+  "date_type" : "Date Found",
+  "record_type" : "FOUND",
+  "age" : "Over 1 year",
+  "animal_id" : "A484141",
+  "zip" : "98038",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Female",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=PUBLIC&ID=1489525"
+  },
+  "current_location" : "In Public Home",
+  "animal_type" : "Dog",
+  "impound_no" : "K15-086588",
+  "animal_breed" : "Pit Bull"
+}
+, {
+  "memo" : "Received on: 2016-01-23<p></p> Found Near: 31600 LAKE SAWYER RD SE, BLACK DIAMOND WA 98010<p></p> Description: Gray / White Unaltered Chicken Bird<p></p> Age: NO AGE<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.037832",
+    "latitude" : "47.318366",
+    "human_address" : "{\"address\":\"31600 LAKE SAWYER RD SE\",\"city\":\"BLACK DIAMOND\",\"state\":\"WA\",\"zip\":\"98010\"}"
+  },
+  "link" : {
+    "url" : "http://www.kingcounty.gov/safety/regionalAnimalServices/AboutUs.aspx"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Gray / White",
+  "jurisdiction" : "KING COUNTY",
+  "date" : "2016-01-23T00:00:00",
+  "obfuscated_longitude" : "-95.712816",
+  "date_type" : "Received on",
+  "city" : "BLACK DIAMOND",
+  "record_type" : "FOUND",
+  "age" : "NO AGE",
+  "animal_id" : "A486582",
+  "obfuscated_latitude" : "37.090608",
+  "zip" : "98010",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Unaltered",
+  "animal_type" : "Dead Bird",
+  "obfuscated_address" : "31600 LAKE SAWYER RD SE",
+  "impound_no" : "K16-087278",
+  "animal_breed" : "Chicken"
+}
+, {
+  "memo" : "Received on: 2016-01-03<p></p> Found Near: 22600 64TH AVE S, KENT WA 98032<p></p> Description: Gray / Black Unaltered Goose Bird<p></p> Age: NO AGE<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.254679",
+    "latitude" : "47.399332",
+    "human_address" : "{\"address\":\"22600 64TH AVE S\",\"city\":\"KENT\",\"state\":\"WA\",\"zip\":\"98032\"}"
+  },
+  "link" : {
+    "url" : "http://www.kingcounty.gov/safety/regionalAnimalServices/AboutUs.aspx"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Gray / Black",
+  "jurisdiction" : "KENT",
+  "date" : "2016-01-03T00:00:00",
+  "obfuscated_longitude" : "-95.712816",
+  "date_type" : "Received on",
+  "city" : "KENT",
+  "record_type" : "FOUND",
+  "age" : "NO AGE",
+  "animal_id" : "A485188",
+  "obfuscated_latitude" : "37.090608",
+  "zip" : "98032",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Unaltered",
+  "animal_type" : "Dead Bird",
+  "obfuscated_address" : "22600 64TH AVE S",
+  "impound_no" : "K16-086941",
+  "animal_breed" : "Goose"
+}
+, {
+  "memo" : "Received on: 2016-01-22<p></p> Found Near: 12000 75TH AVE S, SEATTLE WA 98178<p></p> Description: Black Male Domestic Shorthair Cat<p></p> Age: 6 YEARS<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.240921",
+    "latitude" : "47.496596",
+    "human_address" : "{\"address\":\"12000 75TH AVE S\",\"city\":\"SEATTLE\",\"state\":\"WA\",\"zip\":\"98178\"}"
+  },
+  "link" : {
+    "url" : "http://www.kingcounty.gov/safety/regionalAnimalServices/AboutUs.aspx"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Black",
+  "jurisdiction" : "KING COUNTY",
+  "date" : "2016-01-22T00:00:00",
+  "date_type" : "Received on",
+  "city" : "SEATTLE",
+  "record_type" : "FOUND",
+  "age" : "6 YEARS",
+  "animal_id" : "A486531",
+  "zip" : "98178",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Male",
+  "animal_type" : "Dead Cat",
+  "obfuscated_address" : "12000 75TH AVE S",
+  "impound_no" : "K16-087243",
+  "animal_breed" : "Domestic Shorthair"
+}
+, {
+  "memo" : "Description: His tongue hangs out one side of his mouth. Well-mannered.<p></p>Age: Over 1 year<p></p>Location Found: 226th and Military Road<p></p>Notes: <p></p>Found Date: 12/21/2015<p></p>Finder Address:  Seatac WA 98032",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "human_address" : "{\"address\":\"226TH AND MILITARY ROAD\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  },
+  "link" : {
+    "url" : "http://petharbor.com/PublicDetail.asp?searchtype=PUBFOUND&view=sysadm.v_animal&shelterlist='KING'&where=type&ID=1492755"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "animal_color" : "Black / Brown",
+  "jurisdiction" : "JURISDICTION",
+  "date" : "2015-12-21T00:00:00",
+  "date_type" : "Date Found",
+  "record_type" : "FOUND",
+  "age" : "Over 1 year",
+  "animal_id" : "A484667",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Male",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=PUBLIC&ID=1492755"
+  },
+  "current_location" : "In Public Home",
+  "animal_type" : "Dog",
+  "obfuscated_address" : "226TH AND MILITARY ROAD",
+  "impound_no" : "K15-086763",
+  "animal_breed" : "Miniature Pinscher"
+}
+, {
+  "memo" : "Description: Young puppy<p></p>Age: Under 1 year<p></p>Location Found: S 128th and Military Rd<p></p>Notes: <p></p>Found Date: 01/12/2016<p></p>Finder Address:  Burien Wa 98166",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "human_address" : "{\"address\":\"S 128TH AND MILITARY RD\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  },
+  "link" : {
+    "url" : "http://petharbor.com/PublicDetail.asp?searchtype=PUBFOUND&view=sysadm.v_animal&shelterlist='KING'&where=type&ID=1501586"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "animal_color" : "Black / Brown",
+  "jurisdiction" : "JURISDICTION",
+  "date" : "2016-01-12T00:00:00",
+  "date_type" : "Date Found",
+  "record_type" : "FOUND",
+  "age" : "Under 1 year",
+  "animal_id" : "A486030",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Male",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=PUBLIC&ID=1501586"
+  },
+  "current_location" : "In Public Home",
+  "animal_type" : "Dog",
+  "obfuscated_address" : "S 128TH AND MILITARY RD",
+  "impound_no" : "K16-087106",
+  "animal_breed" : "Labrador Retriever"
+}
+, {
+  "memo" : "Description: Dachshund, mostly black with some brown on underside and legs. As shown in picture, some white hair on head, pretty specific pattern.   Scar or something on right front shoulder.  No collar or tags. Found him Lost and howling in our back yard.<p></p>Age: Over 1 year<p></p>Location Found: 21819 100th Ave SE<p></p>Notes: <p></p>Found Date: 12/21/2015<p></p>Finder Address:  Kent wa 98031",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.207355",
+    "latitude" : "47.406588",
+    "human_address" : "{\"address\":\"21800 100TH AVE SE\",\"city\":\"KENT\",\"state\":\"WA\",\"zip\":\"98031\"}"
+  },
+  "link" : {
+    "url" : "http://petharbor.com/PublicDetail.asp?searchtype=PUBFOUND&view=sysadm.v_animal&shelterlist='KING'&where=type&ID=1492481"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Black / Brown",
+  "jurisdiction" : "KENT",
+  "date" : "2015-12-21T00:00:00",
+  "date_type" : "Date Found",
+  "city" : "KENT",
+  "record_type" : "FOUND",
+  "age" : "Over 1 year",
+  "animal_id" : "A484614",
+  "zip" : "98031",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Male",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=PUBLIC&ID=1492481"
+  },
+  "current_location" : "In Public Home",
+  "animal_type" : "Dog",
+  "obfuscated_address" : "21800 100TH AVE SE",
+  "impound_no" : "K15-086749",
+  "animal_breed" : "Dachshund"
+}
+, {
+  "memo" : "Received on: 2016-01-24<p></p> Found Near: 15100 MACADAM RD S, TUKWILA WA 98188<p></p> Description: Black / Tan Female Yorkshire Terrier / Mix Dog<p></p> Age: 2 YEARS<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.266625",
+    "latitude" : "47.467359",
+    "human_address" : "{\"address\":\"15100 MACADAM RD S\",\"city\":\"TUKWILA\",\"state\":\"WA\",\"zip\":\"98188\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A486596"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Black / Tan",
+  "jurisdiction" : "TUKWILA",
+  "date" : "2016-01-24T00:00:00",
+  "obfuscated_longitude" : "-95.712816",
+  "date_type" : "Received on",
+  "city" : "TUKWILA",
+  "record_type" : "FOUND",
+  "age" : "2 YEARS",
+  "animal_id" : "A486596",
+  "obfuscated_latitude" : "37.090608",
+  "zip" : "98188",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Female",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A486596"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Dog",
+  "obfuscated_address" : "15100 MACADAM RD S",
+  "impound_no" : "K16-087288",
+  "animal_breed" : "Yorkshire Terrier / Mix"
+}
+, {
+  "memo" : "Received on: 2016-01-11<p></p> Found Near: 14400 42ND AVE S, TUKWILA WA 98168<p></p> Description: Black / White Neutered Male Domestic Mediumhair Cat<p></p> Age: 10 YEARS<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.281182",
+    "latitude" : "47.473253",
+    "human_address" : "{\"address\":\"14400 42ND AVE S\",\"city\":\"TUKWILA\",\"state\":\"WA\",\"zip\":\"98168\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A485897"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Black / White",
+  "jurisdiction" : "TUKWILA",
+  "date" : "2016-01-11T00:00:00",
+  "date_type" : "Received on",
+  "city" : "TUKWILA",
+  "record_type" : "FOUND",
+  "age" : "10 YEARS",
+  "animal_id" : "A485897",
+  "zip" : "98168",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Neutered Male",
+  "animal_name" : "Theon",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A485897"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "14400 42ND AVE S",
+  "impound_no" : "K16-087082",
+  "animal_breed" : "Domestic Mediumhair"
+}
+, {
+  "memo" : "Description: Spayed (suspect given scar). Sweet and friendly. Very petite &quot;meow&quot;.<p></p>Age: Over 1 year<p></p>Location Found: 166th &amp; 91st<p></p>Notes: <p></p>Found Date: 01/12/2016<p></p>Finder Address:  Redmond WA 98052",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "human_address" : "{\"address\":\"166TH AVENUE NE &amp; NE 91ST ST\",\"city\":\"REDMOND\",\"state\":\"WA\",\"zip\":\"98052\"}"
+  },
+  "link" : {
+    "url" : "http://petharbor.com/PublicDetail.asp?searchtype=PUBFOUND&view=sysadm.v_animal&shelterlist='KING'&where=type&ID=1501900"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Black / Brown",
+  "jurisdiction" : "REDMOND",
+  "date" : "2016-01-12T00:00:00",
+  "date_type" : "Date Found",
+  "city" : "REDMOND",
+  "record_type" : "FOUND",
+  "age" : "Over 1 year",
+  "animal_id" : "A486110",
+  "zip" : "98052",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Female",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=PUBLIC&ID=1501900"
+  },
+  "current_location" : "In Public Home",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "166TH AVENUE NE & NE 91ST ST",
+  "impound_no" : "K16-087117",
+  "animal_breed" : "Domestic Mediumhair"
+}
+, {
+  "memo" : "Description: Sweet docile, seems young. He jumped into my car in the Safeway parking lot in Enumclaw.<p></p>Age: Unknown<p></p>Location Found: 38920 Veazie Cumberland Road<p></p>Notes: <p></p>Found Date: 01/05/2016<p></p>Finder Address:  ENUMCLAW WA 98092",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-121.952409",
+    "latitude" : "47.251844",
+    "human_address" : "{\"address\":\"38920 VEAZIE CUMBERLAND ROAD\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  },
+  "link" : {
+    "url" : "http://petharbor.com/PublicDetail.asp?searchtype=PUBFOUND&view=sysadm.v_animal&shelterlist='KING'&where=type&ID=1498658"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "animal_color" : "Brown",
+  "jurisdiction" : "JURISDICTION",
+  "date" : "2016-01-05T00:00:00",
+  "date_type" : "Date Found",
+  "record_type" : "FOUND",
+  "age" : "Unknown",
+  "animal_id" : "A485367",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Male",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=PUBLIC&ID=1498658"
+  },
+  "current_location" : "In Public Home",
+  "animal_type" : "Dog",
+  "obfuscated_address" : "38920 VEAZIE CUMBERLAND ROAD",
+  "impound_no" : "K16-086974",
+  "animal_breed" : "Australian Shepherd"
+}
+, {
+  "memo" : "Received on: 2016-01-16<p></p> Found Near: 4000 S 158TH ST, TUKWILA WA 98188<p></p> Description: Tortie Spayed Female Domestic Shorthair Cat<p></p> Age: 1 YEAR<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.283442",
+    "latitude" : "47.46148",
+    "human_address" : "{\"address\":\"4000 S 158TH ST\",\"city\":\"TUKWILA\",\"state\":\"WA\",\"zip\":\"98188\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A486252"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Tortie",
+  "jurisdiction" : "TUKWILA",
+  "date" : "2016-01-16T00:00:00",
+  "date_type" : "Received on",
+  "city" : "TUKWILA",
+  "record_type" : "FOUND",
+  "age" : "1 YEAR",
+  "animal_id" : "A486252",
+  "zip" : "98188",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Spayed Female",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A486252"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "4000 S 158TH ST",
+  "impound_no" : "K16-087163",
+  "animal_breed" : "Domestic Shorthair"
+}
+, {
+  "memo" : "Received on: 2016-01-20<p></p> Found Near: 19200 11TH PL S, SEATAC WA 98148<p></p> Description: Black / White Male Domestic Mediumhair Cat<p></p> Age: 1 YEAR<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.320103",
+    "latitude" : "47.429222",
+    "human_address" : "{\"address\":\"19200 11TH PL S\",\"city\":\"SEATAC\",\"state\":\"WA\",\"zip\":\"98148\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A486424"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Black / White",
+  "jurisdiction" : "SEATAC",
+  "date" : "2016-01-20T00:00:00",
+  "date_type" : "Received on",
+  "city" : "SEATAC",
+  "record_type" : "FOUND",
+  "age" : "1 YEAR",
+  "animal_id" : "A486424",
+  "zip" : "98148",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Male",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A486424"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "19200 11TH PL S",
+  "impound_no" : "K16-087216",
+  "animal_breed" : "Domestic Mediumhair"
+}
+, {
+  "memo" : "Received on: 2016-01-14<p></p> Found Near: 11000 SE 213TH ST, KENT WA 98031<p></p> Description: Blue / White Female Pit Bull Dog<p></p> Age: 1 YEAR<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.192731",
+    "latitude" : "47.410837",
+    "human_address" : "{\"address\":\"11000 SE 213TH ST\",\"city\":\"KENT\",\"state\":\"WA\",\"zip\":\"98031\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A486163"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Blue / White",
+  "jurisdiction" : "KENT",
+  "date" : "2016-01-14T00:00:00",
+  "obfuscated_longitude" : "-95.712816",
+  "date_type" : "Received on",
+  "city" : "KENT",
+  "record_type" : "FOUND",
+  "age" : "1 YEAR",
+  "animal_id" : "A486163",
+  "obfuscated_latitude" : "37.090608",
+  "zip" : "98031",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Female",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A486163"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Dog",
+  "obfuscated_address" : "11000 SE 213TH ST",
+  "impound_no" : "K16-087140",
+  "animal_breed" : "Pit Bull"
+}
+, {
+  "memo" : "Received on: 2016-01-23<p></p> Found Near: 20500 121ST WAY SE, KENT WA 98031<p></p> Description: White / Red Male Pomeranian Dog<p></p> Age: 10 YEARS<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.180237",
+    "latitude" : "47.418318",
+    "human_address" : "{\"address\":\"20500 121ST WAY SE\",\"city\":\"KENT\",\"state\":\"WA\",\"zip\":\"98031\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A486570"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "White / Red",
+  "jurisdiction" : "KENT",
+  "date" : "2016-01-23T00:00:00",
+  "date_type" : "Received on",
+  "city" : "KENT",
+  "record_type" : "FOUND",
+  "age" : "10 YEARS",
+  "animal_id" : "A486570",
+  "zip" : "98031",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Male",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A486570"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Dog",
+  "obfuscated_address" : "20500 121ST WAY SE",
+  "impound_no" : "K16-087266",
+  "animal_breed" : "Pomeranian"
+}
+, {
+  "memo" : "Received on: 2016-01-11<p></p> Found Near: 4200 S 164TH ST, TUKWILA WA 98188<p></p> Description: Orange / White Neutered Male Domestic Shorthair Cat<p></p> Age: 1 YEAR<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.280696",
+    "latitude" : "47.456298",
+    "human_address" : "{\"address\":\"4200 S 164TH ST\",\"city\":\"TUKWILA\",\"state\":\"WA\",\"zip\":\"98188\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A485900"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Orange / White",
+  "jurisdiction" : "TUKWILA",
+  "date" : "2016-01-11T00:00:00",
+  "date_type" : "Received on",
+  "city" : "TUKWILA",
+  "record_type" : "FOUND",
+  "age" : "1 YEAR",
+  "animal_id" : "A485900",
+  "zip" : "98188",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Neutered Male",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A485900"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "4200 S 164TH ST",
+  "impound_no" : "K16-087085",
+  "animal_breed" : "Domestic Shorthair"
+}
+, {
+  "memo" : "Received on: 2016-01-23<p></p> Found Near: 31600 LAKE SAWYER RD SE, BLACK DIAMOND WA 98010<p></p> Description: Black / Green Unaltered Duck Bird<p></p> Age: NO AGE<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.037832",
+    "latitude" : "47.318366",
+    "human_address" : "{\"address\":\"31600 LAKE SAWYER RD SE\",\"city\":\"BLACK DIAMOND\",\"state\":\"WA\",\"zip\":\"98010\"}"
+  },
+  "link" : {
+    "url" : "http://www.kingcounty.gov/safety/regionalAnimalServices/AboutUs.aspx"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Black / Green",
+  "jurisdiction" : "KING COUNTY",
+  "date" : "2016-01-23T00:00:00",
+  "obfuscated_longitude" : "-95.712816",
+  "date_type" : "Received on",
+  "city" : "BLACK DIAMOND",
+  "record_type" : "FOUND",
+  "age" : "NO AGE",
+  "animal_id" : "A486577",
+  "obfuscated_latitude" : "37.090608",
+  "zip" : "98010",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Unaltered",
+  "animal_type" : "Dead Bird",
+  "obfuscated_address" : "31600 LAKE SAWYER RD SE",
+  "impound_no" : "K16-087273",
+  "animal_breed" : "Duck"
+}
+, {
+  "memo" : "Received on: 2016-01-09<p></p> Found Near: 25200 SE 356TH ST, AUBURN WA 98092<p></p> Description: Black / White Spayed Female Domestic Shorthair / Manx Cat<p></p> Age: 10 YEARS<p></p> Current Location: Crossroads #204 Petco 15600 NE 8TH ST BELLEVUE, WA 98008<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.006315",
+    "latitude" : "47.283067",
+    "human_address" : "{\"address\":\"25200 SE 356TH ST\",\"city\":\"AUBURN\",\"state\":\"WA\",\"zip\":\"98092\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A485704"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Black / White",
+  "jurisdiction" : "KING COUNTY",
+  "date" : "2016-01-09T00:00:00",
+  "date_type" : "Received on",
+  "city" : "AUBURN",
+  "record_type" : "FOUND",
+  "age" : "10 YEARS",
+  "animal_id" : "A485704",
+  "zip" : "98092",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Spayed Female",
+  "animal_name" : "Nubbs",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A485704"
+  },
+  "current_location" : "Crossroads #204 Petco 15600 NE 8TH ST BELLEVUE, WA 98008",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "25200 SE 356TH ST",
+  "impound_no" : "K16-087051",
+  "animal_breed" : "Domestic Shorthair / Manx"
+}
+, {
+  "memo" : "Description: Orange/beige and white, large tummy. Claws. Not sure on the sex. Very nice, hungry. No collar.<p></p>Age: Unknown<p></p>Location Found: Peter Grubb Road<p></p>Notes: <p></p>Found Date: 12/20/2015<p></p>Finder Address:  Renton Wa 98058",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "human_address" : "{\"address\":\"PETER GRUBB ROAD\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  },
+  "link" : {
+    "url" : "http://petharbor.com/PublicDetail.asp?searchtype=PUBFOUND&view=sysadm.v_animal&shelterlist='KING'&where=type&ID=1492578"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "animal_color" : "White",
+  "jurisdiction" : "JURISDICTION",
+  "date" : "2015-12-20T00:00:00",
+  "date_type" : "Date Found",
+  "record_type" : "FOUND",
+  "age" : "Unknown",
+  "animal_id" : "A484619",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=PUBLIC&ID=1492578"
+  },
+  "current_location" : "In Public Home",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "PETER GRUBB ROAD",
+  "impound_no" : "K15-086756",
+  "animal_breed" : "Domestic Shorthair"
+}
+, {
+  "memo" : "Received on: 2016-01-22<p></p> Found Near: 31400 44TH AVE S, AUBURN WA 98001<p></p> Description: Brn Tabby / White Male Domestic Shorthair Cat<p></p> Age: 2 YEARS<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.278912",
+    "latitude" : "47.320312",
+    "human_address" : "{\"address\":\"31400 44TH AVE S\",\"city\":\"AUBURN\",\"state\":\"WA\",\"zip\":\"98001\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A486533"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Brn Tabby / White",
+  "jurisdiction" : "KING COUNTY",
+  "date" : "2016-01-22T00:00:00",
+  "date_type" : "Received on",
+  "city" : "AUBURN",
+  "record_type" : "FOUND",
+  "age" : "2 YEARS",
+  "animal_id" : "A486533",
+  "zip" : "98001",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Male",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A486533"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "31400 44TH AVE S",
+  "impound_no" : "K16-087245",
+  "animal_breed" : "Domestic Shorthair"
+}
+, {
+  "memo" : "Received on: 2016-01-19<p></p> Found Near: 20900 SE 358TH ST AUBURN, WA 98092<p></p> Description: Gray Tabby Neutered Male Domestic Longhair Cat<p></p> Age: 2 YEARS<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.063027",
+    "latitude" : "47.282001",
+    "human_address" : "{\"address\":\"20900 SE 358TH ST AUBURN\",\"city\":\"\",\"state\":\"WA\",\"zip\":\"98092\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A486387"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Gray Tabby",
+  "jurisdiction" : "KING COUNTY",
+  "date" : "2016-01-19T00:00:00",
+  "date_type" : "Received on",
+  "record_type" : "FOUND",
+  "age" : "2 YEARS",
+  "animal_id" : "A486387",
+  "zip" : "98092",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Neutered Male",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A486387"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "20900 SE 358TH ST AUBURN",
+  "impound_no" : "K16-087197",
+  "animal_breed" : "Domestic Longhair"
+}
+, {
+  "memo" : "Received on: 2016-01-22<p></p> Found Near: 19200 SE 259TH PL, COVINGTON WA 98042<p></p> Description: Tan / White Male Guinea Pig Guinea Pig<p></p> Age: NO AGE<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.084977",
+    "latitude" : "47.369024",
+    "human_address" : "{\"address\":\"19200 SE 259TH PL\",\"city\":\"COVINGTON\",\"state\":\"WA\",\"zip\":\"98042\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A486552"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Tan / White",
+  "jurisdiction" : "COVINGTON",
+  "date" : "2016-01-22T00:00:00",
+  "date_type" : "Received on",
+  "city" : "COVINGTON",
+  "record_type" : "FOUND",
+  "age" : "NO AGE",
+  "animal_id" : "A486552",
+  "zip" : "98042",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Male",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A486552"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Guinea Pig",
+  "obfuscated_address" : "19200 SE 259TH PL",
+  "impound_no" : "K16-087252",
+  "animal_breed" : "Guinea Pig"
+}
+, {
+  "memo" : "Description: Small, older white with blond/black markings.  Wearing pink corduroy jacket and floral fabric collar with tag that reads  Pepper 206-920-1699 Auburn, WA.  Dog has awkward movement and does not seem to be in pain.<p></p>Age: Over 1 year<p></p>Location Found: Bellevue - 148th Ave NE/Old Redmond Rd,<p></p>Notes: <p></p>Found Date: 01/03/2016<p></p>Finder Address:  Redmond wa 98052",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "human_address" : "{\"address\":\"BELLEVUE - 148TH AVE NE/OLD REDMOND RD,\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  },
+  "link" : {
+    "url" : "http://petharbor.com/PublicDetail.asp?searchtype=PUBFOUND&view=sysadm.v_animal&shelterlist='KING'&where=type&ID=1497852"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "animal_color" : "White / Unknown",
+  "jurisdiction" : "JURISDICTION",
+  "date" : "2016-01-03T00:00:00",
+  "date_type" : "Date Found",
+  "record_type" : "FOUND",
+  "age" : "Over 1 year",
+  "animal_id" : "A485200",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Female",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=PUBLIC&ID=1497852"
+  },
+  "current_location" : "In Public Home",
+  "animal_type" : "Dog",
+  "obfuscated_address" : "BELLEVUE - 148TH AVE NE/OLD REDMOND RD,",
+  "impound_no" : "K16-086953",
+  "animal_breed" : "Shih Tzu"
+}
+, {
+  "memo" : "Received on: 2016-01-07<p></p> Found Near: 6000 S 238TH PL, KENT WA 98032<p></p> Description: Black Spayed Female Domestic Mediumhair Cat<p></p> Age: 6 YEARS<p></p> Current Location: Reber Ranch 28606 132ND AVE SE KENT, WA 98042<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.259285",
+    "latitude" : "47.388784",
+    "human_address" : "{\"address\":\"6000 S 238TH PL\",\"city\":\"KENT\",\"state\":\"WA\",\"zip\":\"98032\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A485595"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Black",
+  "jurisdiction" : "KENT",
+  "date" : "2016-01-07T00:00:00",
+  "date_type" : "Received on",
+  "city" : "KENT",
+  "record_type" : "FOUND",
+  "age" : "6 YEARS",
+  "animal_id" : "A485595",
+  "zip" : "98032",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Spayed Female",
+  "animal_name" : "Daphne",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A485595"
+  },
+  "current_location" : "Reber Ranch 28606 132ND AVE SE KENT, WA 98042",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "6000 S 238TH PL",
+  "impound_no" : "K16-087021",
+  "animal_breed" : "Domestic Mediumhair"
+}
+, {
+  "memo" : "Received on: 2016-01-14<p></p> Found Near: 20300 GREENWOOD AVE N, SHORELINE WA 98133<p></p> Description: Gray / Dilute Tor Spayed Female Domestic Shorthair Cat<p></p> Age: 6 YEARS<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.355926",
+    "latitude" : "47.776627",
+    "human_address" : "{\"address\":\"20300 GREENWOOD AVE N\",\"city\":\"SHORELINE\",\"state\":\"WA\",\"zip\":\"98133\"}"
+  },
+  "link" : {
+    "url" : "http://www.kingcounty.gov/safety/regionalAnimalServices/AboutUs.aspx"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Gray / Dilute Tor",
+  "jurisdiction" : "SHORELINE",
+  "date" : "2016-01-14T00:00:00",
+  "date_type" : "Received on",
+  "city" : "SHORELINE",
+  "record_type" : "FOUND",
+  "age" : "6 YEARS",
+  "animal_id" : "A486149",
+  "zip" : "98133",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Spayed Female",
+  "animal_name" : "Isabelle",
+  "animal_type" : "Dead Cat",
+  "obfuscated_address" : "20300 GREENWOOD AVE N",
+  "impound_no" : "K16-087136",
+  "animal_breed" : "Domestic Shorthair"
+}
+, {
+  "memo" : "Received on: 2016-01-17<p></p> Found Near: 12200 131ST PL NE, KIRKLAND WA 98034<p></p> Description: Brn Tabby / White Male Domestic Shorthair Cat<p></p> Age: 6 MONTHS<p></p> Current Location: In RASKC Foster Home <p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.165206",
+    "latitude" : "47.708468",
+    "human_address" : "{\"address\":\"12200 131ST PL NE\",\"city\":\"KIRKLAND\",\"state\":\"WA\",\"zip\":\"98034\"}"
+  },
+  "link" : {
+    "url" : "http://www.kingcounty.gov/safety/regionalAnimalServices/AboutUs.aspx"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Brn Tabby / White",
+  "jurisdiction" : "KIRKLAND",
+  "date" : "2016-01-17T00:00:00",
+  "date_type" : "Received on",
+  "city" : "KIRKLAND",
+  "record_type" : "FOUND",
+  "age" : "6 MONTHS",
+  "animal_id" : "A486268",
+  "zip" : "98034",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Male",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A486268"
+  },
+  "current_location" : "In RASKC Foster Home",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "12200 131ST PL NE",
+  "impound_no" : "K16-087176",
+  "animal_breed" : "Domestic Shorthair"
+}
+, {
+  "memo" : "Received on: 2016-01-23<p></p> Found Near: 31600 LAKE SAWYER RD SE, BLACK DIAMOND WA 98010<p></p> Description: Gray / White Unaltered Chicken Bird<p></p> Age: NO AGE<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.037832",
+    "latitude" : "47.318366",
+    "human_address" : "{\"address\":\"31600 LAKE SAWYER RD SE\",\"city\":\"BLACK DIAMOND\",\"state\":\"WA\",\"zip\":\"98010\"}"
+  },
+  "link" : {
+    "url" : "http://www.kingcounty.gov/safety/regionalAnimalServices/AboutUs.aspx"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Gray / White",
+  "jurisdiction" : "KING COUNTY",
+  "date" : "2016-01-23T00:00:00",
+  "obfuscated_longitude" : "-95.712816",
+  "date_type" : "Received on",
+  "city" : "BLACK DIAMOND",
+  "record_type" : "FOUND",
+  "age" : "NO AGE",
+  "animal_id" : "A486584",
+  "obfuscated_latitude" : "37.090608",
+  "zip" : "98010",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Unaltered",
+  "animal_type" : "Dead Bird",
+  "obfuscated_address" : "31600 LAKE SAWYER RD SE",
+  "impound_no" : "K16-087280",
+  "animal_breed" : "Chicken"
+}
+, {
+  "memo" : "Received on: 2016-01-19<p></p> Found Near: 18400 SE 247TH PL, COVINGTON WA 98042<p></p> Description: Tan / White Spayed Female Chihuahua - Smooth Coated Dog<p></p> Age: 2 YEARS<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.094904",
+    "latitude" : "47.380505",
+    "human_address" : "{\"address\":\"18400 SE 247TH PL\",\"city\":\"COVINGTON\",\"state\":\"WA\",\"zip\":\"98042\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A486395"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Tan / White",
+  "jurisdiction" : "COVINGTON",
+  "date" : "2016-01-19T00:00:00",
+  "date_type" : "Received on",
+  "city" : "COVINGTON",
+  "record_type" : "FOUND",
+  "age" : "2 YEARS",
+  "animal_id" : "A486395",
+  "zip" : "98042",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Spayed Female",
+  "animal_name" : "Chalita",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A486395"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Dog",
+  "obfuscated_address" : "18400 SE 247TH PL",
+  "impound_no" : "K16-087202",
+  "animal_breed" : "Chihuahua - Smooth Coated"
+}
+, {
+  "memo" : "Received on: 2016-01-23<p></p> Found Near: 42900 212TH AVE SE, ENUMCLAW WA 98022<p></p> Description: Org Tabby / White Female Domestic Shorthair Cat<p></p> Age: 5 YEARS<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.059018",
+    "latitude" : "47.216355",
+    "human_address" : "{\"address\":\"42900 212TH AVE SE\",\"city\":\"ENUMCLAW\",\"state\":\"WA\",\"zip\":\"98022\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A486573"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Org Tabby / White",
+  "jurisdiction" : "KING COUNTY",
+  "date" : "2016-01-23T00:00:00",
+  "date_type" : "Received on",
+  "city" : "ENUMCLAW",
+  "record_type" : "FOUND",
+  "age" : "5 YEARS",
+  "animal_id" : "A486573",
+  "zip" : "98022",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Female",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A486573"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "42900 212TH AVE SE",
+  "impound_no" : "K16-087269",
+  "animal_breed" : "Domestic Shorthair"
+}
+, {
+  "memo" : "Received on: 2015-12-12<p></p> Found Near: 25500 139TH AVE SE, KENT WA 98042<p></p> Description: Brn Tabby Neutered Male Domestic Mediumhair Cat<p></p> Age: 1 YEAR 1 MONTH<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.155899",
+    "latitude" : "47.373097",
+    "human_address" : "{\"address\":\"25500 139TH AVE SE\",\"city\":\"KENT\",\"state\":\"WA\",\"zip\":\"98042\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A484013"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Brn Tabby",
+  "jurisdiction" : "KENT",
+  "date" : "2015-12-12T00:00:00",
+  "date_type" : "Received on",
+  "city" : "KENT",
+  "record_type" : "FOUND",
+  "age" : "1 YEAR 1 MONTH",
+  "animal_id" : "A484013",
+  "zip" : "98042",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Neutered Male",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A484013"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "25500 139TH AVE SE",
+  "impound_no" : "K15-086558",
+  "animal_breed" : "Domestic Mediumhair"
+}
+, {
+  "memo" : "Received on: 2016-01-09<p></p> Found Near: 15000 MACADAM RD S, TUKWILA WA 98188<p></p> Description: Black Female Domestic Shorthair Cat<p></p> Age: 7 YEARS<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.267024",
+    "latitude" : "47.46906",
+    "human_address" : "{\"address\":\"15000 MACADAM RD S\",\"city\":\"TUKWILA\",\"state\":\"WA\",\"zip\":\"98188\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A485709"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Black",
+  "jurisdiction" : "TUKWILA",
+  "date" : "2016-01-09T00:00:00",
+  "date_type" : "Received on",
+  "city" : "TUKWILA",
+  "record_type" : "FOUND",
+  "age" : "7 YEARS",
+  "animal_id" : "A485709",
+  "zip" : "98188",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Female",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A485709"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "15000 MACADAM RD S",
+  "impound_no" : "K16-087056",
+  "animal_breed" : "Domestic Shorthair"
+}
+, {
+  "memo" : "Received on: 2015-12-29<p></p> Found Near: 23600 108TH PL SE, KENT WA 98031<p></p> Description: Gray Neutered Male Domestic Shorthair Cat<p></p> Age: 13 YEARS<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.196341",
+    "latitude" : "47.386182",
+    "human_address" : "{\"address\":\"23600 108TH PL SE\",\"city\":\"KENT\",\"state\":\"WA\",\"zip\":\"98031\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A485013"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Gray",
+  "jurisdiction" : "KENT",
+  "date" : "2015-12-29T00:00:00",
+  "date_type" : "Received on",
+  "city" : "KENT",
+  "record_type" : "FOUND",
+  "age" : "13 YEARS",
+  "animal_id" : "A485013",
+  "zip" : "98031",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Neutered Male",
+  "animal_name" : "Zazzles",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A485013"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "23600 108TH PL SE",
+  "impound_no" : "K15-086871",
+  "animal_breed" : "Domestic Shorthair"
+}
+, {
+  "memo" : "Description: Small somewhat fluffy blonde terrier. Possibly mix of terriers. I think it may be older but am not sure. No collar.  Has not allowed me to pick it up to see sex or take to be scanned for chip.<p></p>Age: Unknown<p></p>Location Found: 242nd St /98th Ave<p></p>Notes: <p></p>Found Date: 01/13/2016<p></p>Finder Address:  Kent WA 98930",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "human_address" : "{\"address\":\"S 242ND STREET &amp; 98TH AVENUE S\",\"city\":\"KENT\",\"state\":\"WA\",\"zip\":\"98030\"}"
+  },
+  "link" : {
+    "url" : "http://petharbor.com/PublicDetail.asp?searchtype=PUBFOUND&view=sysadm.v_animal&shelterlist='KING'&where=type&ID=1502026"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Unknown",
+  "jurisdiction" : "KENT",
+  "date" : "2016-01-13T00:00:00",
+  "date_type" : "Date Found",
+  "city" : "KENT",
+  "record_type" : "FOUND",
+  "age" : "Unknown",
+  "animal_id" : "A486128",
+  "zip" : "98030",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=PUBLIC&ID=1502026"
+  },
+  "current_location" : "In Public Home",
+  "animal_type" : "Dog",
+  "obfuscated_address" : "S 242ND STREET & 98TH AVENUE S",
+  "impound_no" : "K16-087128",
+  "animal_breed" : "Cairn Terrier"
+}
+, {
+  "memo" : "Description: <p></p>Age: Over 1 year<p></p>Location Found: Bothell Everett Highway &amp; 228th<p></p>Notes: <p></p>Found Date: 01/04/2016<p></p>Finder Address:  Canyon Park Wa 98021",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "human_address" : "{\"address\":\"BOTHELL EVERETT HIGHWAY &amp; 228TH\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  },
+  "link" : {
+    "url" : "http://petharbor.com/PublicDetail.asp?searchtype=PUBFOUND&view=sysadm.v_animal&shelterlist='KING'&where=type&ID=1498853"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "animal_color" : "Brown / White",
+  "jurisdiction" : "JURISDICTION",
+  "date" : "2016-01-04T00:00:00",
+  "date_type" : "Date Found",
+  "record_type" : "FOUND",
+  "age" : "Over 1 year",
+  "animal_id" : "A485388",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Male",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=PUBLIC&ID=1498853"
+  },
+  "current_location" : "In Public Home",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "BOTHELL EVERETT HIGHWAY & 228TH",
+  "impound_no" : "K16-086991",
+  "animal_breed" : "Domestic Shorthair"
+}
+, {
+  "memo" : "Received on: 2016-01-23<p></p> Found Near: 1700 SW 107TH ST, SEATTLE WA 98146<p></p> Description: Orange Male Domestic Shorthair Cat<p></p> Age: 4 YEARS<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.356828",
+    "latitude" : "47.507118",
+    "human_address" : "{\"address\":\"1700 SW 107TH ST\",\"city\":\"SEATTLE\",\"state\":\"WA\",\"zip\":\"98146\"}"
+  },
+  "link" : {
+    "url" : "http://www.kingcounty.gov/safety/regionalAnimalServices/AboutUs.aspx"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Orange",
+  "jurisdiction" : "KING COUNTY",
+  "date" : "2016-01-23T00:00:00",
+  "obfuscated_longitude" : "-95.712816",
+  "date_type" : "Received on",
+  "city" : "SEATTLE",
+  "record_type" : "FOUND",
+  "age" : "4 YEARS",
+  "animal_id" : "A486560",
+  "obfuscated_latitude" : "37.090608",
+  "zip" : "98146",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Male",
+  "animal_type" : "Dead Cat",
+  "obfuscated_address" : "1700 SW 107TH ST",
+  "impound_no" : "K16-087260",
+  "animal_breed" : "Domestic Shorthair"
+}
+, {
+  "memo" : "Description: Black with some white mixed in. Green/yellow eyes. Found near Small Faces in Crown Hill.<p></p>Age: Unknown<p></p>Location Found: 9247 - 14th Ave NW<p></p>Notes: <p></p>Found Date: 01/01/2016<p></p>Finder Address:  Seattle WA 98117",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.374103",
+    "latitude" : "47.69607",
+    "human_address" : "{\"address\":\"9200 14TH AVE NW\",\"city\":\"SEATTLE\",\"state\":\"WA\",\"zip\":\"98117\"}"
+  },
+  "link" : {
+    "url" : "http://petharbor.com/PublicDetail.asp?searchtype=PUBFOUND&view=sysadm.v_animal&shelterlist='KING'&where=type&ID=1498847"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Black",
+  "jurisdiction" : "SEATTLE",
+  "date" : "2016-01-01T00:00:00",
+  "date_type" : "Date Found",
+  "city" : "SEATTLE",
+  "record_type" : "FOUND",
+  "age" : "Unknown",
+  "animal_id" : "A485387",
+  "zip" : "98117",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=PUBLIC&ID=1498847"
+  },
+  "current_location" : "In Public Home",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "9200 14TH AVE NW",
+  "impound_no" : "K16-086990",
+  "animal_breed" : "Domestic Mediumhair"
+}
+, {
+  "memo" : "Received on: 2016-01-09<p></p> Found Near: 30600 MILITARY RD S, AUBURN WA 98001<p></p> Description: Black / White Neutered Male Alaskan Malamute / Mix Dog<p></p> Age: 8 YEARS<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.293122",
+    "latitude" : "47.326762",
+    "human_address" : "{\"address\":\"30600 MILITARY RD S\",\"city\":\"AUBURN\",\"state\":\"WA\",\"zip\":\"98001\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A485695"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Black / White",
+  "jurisdiction" : "KING COUNTY",
+  "date" : "2016-01-09T00:00:00",
+  "obfuscated_longitude" : "-95.712816",
+  "date_type" : "Received on",
+  "city" : "AUBURN",
+  "record_type" : "FOUND",
+  "age" : "8 YEARS",
+  "animal_id" : "A485695",
+  "obfuscated_latitude" : "37.090608",
+  "zip" : "98001",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Neutered Male",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A485695"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Dog",
+  "obfuscated_address" : "30600 MILITARY RD S",
+  "impound_no" : "K16-087047",
+  "animal_breed" : "Alaskan Malamute / Mix"
+}
+, {
+  "memo" : "Description: Adult female blue merle Cattle Dog. Very sweet. No tattoos/chip/collar. White spot on forehead, large black patch on right shoulder. Full tail. Healthy body condition and coat. Knows tricks and good with new people/new pets.<p></p>Age: Over 1 year<p></p>Location Found: Corliss Ave N and N 122nd St<p></p>Notes: <p></p>Found Date: 01/13/2016<p></p>Finder Address:  Seattle WA 98133",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "human_address" : "{\"address\":\"CORLISS AVE N AND N 122ND ST\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  },
+  "link" : {
+    "url" : "http://petharbor.com/PublicDetail.asp?searchtype=PUBFOUND&view=sysadm.v_animal&shelterlist='KING'&where=type&ID=1502137"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "animal_color" : "Black",
+  "jurisdiction" : "JURISDICTION",
+  "date" : "2016-01-13T00:00:00",
+  "date_type" : "Date Found",
+  "record_type" : "FOUND",
+  "age" : "Over 1 year",
+  "animal_id" : "A486131",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Female",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=PUBLIC&ID=1502137"
+  },
+  "current_location" : "In Public Home",
+  "animal_type" : "Dog",
+  "obfuscated_address" : "CORLISS AVE N AND N 122ND ST",
+  "impound_no" : "K16-087130",
+  "animal_breed" : "Australian Cattle Dog"
+}
+, {
+  "memo" : "Description: Face half black w/some brown &amp; half white, both ears black. Body mostly white w/patch of black on back rear. Very friendly. Has Seahawk ID with Ramon Garcia J and phone 2532618386 on it as well as license #377825.<p></p>Age: Unknown<p></p>Location Found: 192nd &amp; Kent Kangley<p></p>Notes: <p></p>Found Date: 01/16/2016<p></p>Finder Address:  Covington WA 98042",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "human_address" : "{\"address\":\"192ND &amp; KENT KANGLEY\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  },
+  "link" : {
+    "url" : "http://petharbor.com/PublicDetail.asp?searchtype=PUBFOUND&view=sysadm.v_animal&shelterlist='KING'&where=type&ID=1503063"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "animal_color" : "White / Black",
+  "jurisdiction" : "JURISDICTION",
+  "date" : "2016-01-16T00:00:00",
+  "date_type" : "Date Found",
+  "record_type" : "FOUND",
+  "age" : "Unknown",
+  "animal_id" : "A486253",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Male",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=PUBLIC&ID=1503063"
+  },
+  "current_location" : "In Public Home",
+  "animal_type" : "Dog",
+  "obfuscated_address" : "192ND & KENT KANGLEY",
+  "impound_no" : "K16-087162",
+  "animal_breed" : "Rat Terrier"
+}
+, {
+  "memo" : "Received on: 2016-01-23<p></p> Found Near: 31600 LAKE SAWYER RD SE, BLACK DIAMOND WA 98010<p></p> Description: Tan Unaltered Chicken Bird<p></p> Age: NO AGE<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.037832",
+    "latitude" : "47.318366",
+    "human_address" : "{\"address\":\"31600 LAKE SAWYER RD SE\",\"city\":\"BLACK DIAMOND\",\"state\":\"WA\",\"zip\":\"98010\"}"
+  },
+  "link" : {
+    "url" : "http://www.kingcounty.gov/safety/regionalAnimalServices/AboutUs.aspx"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Tan",
+  "jurisdiction" : "KING COUNTY",
+  "date" : "2016-01-23T00:00:00",
+  "obfuscated_longitude" : "-95.712816",
+  "date_type" : "Received on",
+  "city" : "BLACK DIAMOND",
+  "record_type" : "FOUND",
+  "age" : "NO AGE",
+  "animal_id" : "A486579",
+  "obfuscated_latitude" : "37.090608",
+  "zip" : "98010",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Unaltered",
+  "animal_type" : "Dead Bird",
+  "obfuscated_address" : "31600 LAKE SAWYER RD SE",
+  "impound_no" : "K16-087275",
+  "animal_breed" : "Chicken"
+}
+, {
+  "memo" : "Received on: 2016-01-16<p></p> Found Near: 3000 S 154TH ST, SEATAC WA 98188<p></p> Description: Tan Spayed Female Miniature Poodle Dog<p></p> Age: 9 YEARS<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.292646",
+    "latitude" : "47.465151",
+    "human_address" : "{\"address\":\"3000 S 154TH ST\",\"city\":\"SEATAC\",\"state\":\"WA\",\"zip\":\"98188\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A486247"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Tan",
+  "jurisdiction" : "SEATAC",
+  "date" : "2016-01-16T00:00:00",
+  "date_type" : "Received on",
+  "city" : "SEATAC",
+  "record_type" : "FOUND",
+  "age" : "9 YEARS",
+  "animal_id" : "A486247",
+  "zip" : "98188",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Spayed Female",
+  "animal_name" : "Mandy",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A486247"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Dog",
+  "obfuscated_address" : "3000 S 154TH ST",
+  "impound_no" : "K16-087158",
+  "animal_breed" : "Miniature Poodle"
+}
+, {
+  "memo" : "Received on: 2016-01-03<p></p> Found Near: 29600 34TH AVE S, AUBURN WA 98001<p></p> Description: Black / White Spayed Female Domestic Shorthair Cat<p></p> Age: 3 MONTHS<p></p> Current Location: Cat &amp; Kaboodle<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.289426",
+    "latitude" : "47.336424",
+    "human_address" : "{\"address\":\"29600 34TH AVE S\",\"city\":\"AUBURN\",\"state\":\"WA\",\"zip\":\"98001\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A485234"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Black / White",
+  "jurisdiction" : "KING COUNTY",
+  "date" : "2016-01-03T00:00:00",
+  "date_type" : "Received on",
+  "city" : "AUBURN",
+  "record_type" : "FOUND",
+  "age" : "3 MONTHS",
+  "animal_id" : "A485234",
+  "zip" : "98001",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Spayed Female",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A485234"
+  },
+  "current_location" : "Cat & Kaboodle",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "29600 34TH AVE S",
+  "impound_no" : "K16-086970",
+  "animal_breed" : "Domestic Shorthair"
+}
+, {
+  "memo" : "Received on: 2015-11-05<p></p> Found Near: 2600 CENTER ST, TACOMA WA 98409<p></p> Description: Brn Tabby Spayed Female Domestic Shorthair Cat<p></p> Age: 4 YEARS<p></p> Current Location: Meowtropolitan<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.470527",
+    "latitude" : "47.234286",
+    "human_address" : "{\"address\":\"2600 CENTER ST\",\"city\":\"TACOMA\",\"state\":\"WA\",\"zip\":\"98409\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A480898"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Brn Tabby",
+  "jurisdiction" : "PIERCE COUNTY",
+  "date" : "2015-11-05T00:00:00",
+  "date_type" : "Received on",
+  "city" : "TACOMA",
+  "record_type" : "FOUND",
+  "age" : "4 YEARS",
+  "animal_id" : "A480898",
+  "zip" : "98409",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Spayed Female",
+  "animal_name" : "Annie",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A480898"
+  },
+  "current_location" : "Meowtropolitan",
+  "animal_type" : "Cat",
+  "obfuscated_address" : "2600 CENTER ST",
+  "impound_no" : "K15-085771",
+  "animal_breed" : "Domestic Shorthair"
+}
+, {
+  "memo" : "Received on: 2016-01-22<p></p> Found Near: 14300 SE 192ND ST, RENTON WA 98058<p></p> Description: Black / Tan Female Rottweiler Dog<p></p> Age: 6 YEARS<p></p> Current Location: King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032<p></p>",
+  "location_for_map" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.151319",
+    "latitude" : "47.430328",
+    "human_address" : "{\"address\":\"14300 SE 192ND ST\",\"city\":\"RENTON\",\"state\":\"WA\",\"zip\":\"98058\"}"
+  },
+  "link" : {
+    "url" : "http://www.petharbor.com/pet.asp?uaid=KING.A486492"
+  },
+  "data_source" : "Regional Animal Services of King County",
+  "state" : "WA",
+  "animal_color" : "Black / Tan",
+  "jurisdiction" : "KING COUNTY",
+  "date" : "2016-01-22T00:00:00",
+  "obfuscated_longitude" : "-95.712816",
+  "date_type" : "Received on",
+  "city" : "RENTON",
+  "record_type" : "FOUND",
+  "age" : "6 YEARS",
+  "animal_id" : "A486492",
+  "obfuscated_latitude" : "37.090608",
+  "zip" : "98058",
+  "image_alt_text" : "Image Copyright HLP Inc. 2016",
+  "animal_gender" : "Female",
+  "image" : {
+    "url" : "http://www.petharbor.com/get_image.asp?RES=Detail&LOCATION=KING&ID=A486492"
+  },
+  "current_location" : "King County Pet Adoption Center 21615 64TH AVE S KENT, WA 98032",
+  "animal_type" : "Dog",
+  "obfuscated_address" : "14300 SE 192ND ST",
+  "impound_no" : "K16-087236",
+  "animal_breed" : "Rottweiler"
+}
+ ]

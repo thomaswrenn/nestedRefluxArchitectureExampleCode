@@ -1,0 +1,22 @@
+{
+  "name": "nestedRefluxArchitectureExampleCode",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://thomaswrenn@github.com/thomaswrenn/nestedRefluxArchitectureExampleCode.git"
+  },
+  "author": "Tom Wrenn (me@tomwr.in)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomaswrenn/nestedRefluxArchitectureExampleCode/issues"
+  },
+  "homepage": "https://github.com/thomaswrenn/nestedRefluxArchitectureExampleCode",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
