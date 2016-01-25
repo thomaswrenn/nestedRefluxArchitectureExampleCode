@@ -1,0 +1,25 @@
+digraph SystemDiagram {
+    graph [rankdir=LR, clusterrank=local, style=dashed];
+    FetchFoundPetsAction, FetchFoundPetsCompletedAction, FetchFoundPetsFailedAction, FetchResturantInspectionsAction, FetchResturantInspectionsCompletedAction, FetchResturantInspectionsFailedAction, UpdateZipcodeFilterStringAction [shape=oval, style=filled, fillcolor="#FF1616"];
+    subgraph {
+        rank=same;
+        FetchFoundPetsCompletedAction, FetchFoundPetsFailedAction, FetchResturantInspectionsCompletedAction, FetchResturantInspectionsFailedAction, UpdateZipcodeFilterStringAction;
+    }
+    subgraph APIUtils {
+        rank=same;
+        FoundPetsAPIUtils, ResturantInspectionsAPIUtils [shape=trapezium, style=filled, fillcolor="#CCCCCC"];
+    }
+    FilteredFoundPetsStore, FoundPetsToResturantInspectionsRatiosStore, FilteredResturantInspectionsStore, ResturantInspectionsStore, FilteredZipcodesWithInfoStore, ZipcodeFilterStringStore, FoundPetsStore, ZipcodesWithInfoStore [shape=rect, style=filled, fillcolor="#9999FF"];
+    subgraph ReactComponents {
+        rank=same;
+        FoundPetsList, ResturantInspectionsList, FoundPetsToResturantInspectionsRatiosList, ZipcodeFilterField [shape=rect, style=filled, fillcolor="#FFFF88"];
+    }
+
+    FetchFoundPetsAction -> FoundPetsAPIUtils -> FetchFoundPetsCompletedAction, FetchFoundPetsFailedAction;
+    FetchResturantInspectionsAction -> ResturantInspectionsAPIUtils -> FetchResturantInspectionsCompletedAction, FetchResturantInspectionsFailedAction;
+
+    FetchFoundPetsCompletedAction -> FoundPetsStore -> FilteredFoundPetsStore -> FoundPetsList;
+    FetchResturantInspectionsCompletedAction -> ResturantInspectionsStore -> FilteredResturantInspectionsStore -> ResturantInspectionsList;
+    ZipcodesWithInfoStore -> FilteredZipcodesWithInfoStore -> FoundPetsToResturantInspectionsRatiosStore -> FoundPetsToResturantInspectionsRatiosList;
+    ZipcodeFilterField -> UpdateZipcodeFilterStringAction -> ZipcodeFilterStringStore -> FilteredResturantInspectionsStore, FilteredFoundPetsStore, FilteredZipcodesWithInfoStore;
+}

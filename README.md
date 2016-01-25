@@ -12,3 +12,7 @@
 
 # Profit
 - Go to `http://localhost:3000`
+
+
+# Architecture Diagram
+![Nested Reflux Architecture Diagram](https://github.com/thomaswrenn/nestedRefluxArchitectureExampleCode/raw/master/ArchitectureDiagram.png "Architecture Diagram")
