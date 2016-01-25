@@ -1,18 +1,19 @@
 digraph SystemDiagram {
     graph [rankdir=LR, clusterrank=local, style=dashed];
-    FetchFoundPetsAction, FetchFoundPetsCompletedAction, FetchFoundPetsFailedAction, FetchResturantInspectionsAction, FetchResturantInspectionsCompletedAction, FetchResturantInspectionsFailedAction, UpdateZipcodeFilterStringAction [shape=oval, style=filled, fillcolor="#FF1616"];
+    node [fontname="Menlo", fontsize=10, fontcolor="#444444", color=none];
+    FetchFoundPetsAction, FetchFoundPetsCompletedAction, FetchFoundPetsFailedAction, FetchResturantInspectionsAction, FetchResturantInspectionsCompletedAction, FetchResturantInspectionsFailedAction, UpdateZipcodeFilterStringAction [shape=polygon, sides=100, distortion=-0.1875, style=filled, fillcolor="#f24c4a"];
     subgraph {
         rank=same;
         FetchFoundPetsCompletedAction, FetchFoundPetsFailedAction, FetchResturantInspectionsCompletedAction, FetchResturantInspectionsFailedAction, UpdateZipcodeFilterStringAction;
     }
     subgraph APIUtils {
         rank=same;
-        FoundPetsAPIUtils, ResturantInspectionsAPIUtils [shape=trapezium, style=filled, fillcolor="#CCCCCC"];
+        FoundPetsAPIUtils, ResturantInspectionsAPIUtils [shape=polygon, skew=-0.0625, style=filled, fillcolor="#D7CECF"];
     }
-    FilteredFoundPetsStore, FoundPetsToResturantInspectionsRatiosStore, FilteredResturantInspectionsStore, ResturantInspectionsStore, FilteredZipcodesWithInfoStore, ZipcodeFilterStringStore, FoundPetsStore, ZipcodesWithInfoStore [shape=rect, style=filled, fillcolor="#9999FF"];
+    FilteredFoundPetsStore, FoundPetsToResturantInspectionsRatiosStore, FilteredResturantInspectionsStore, ResturantInspectionsStore, FilteredZipcodesWithInfoStore, ZipcodeFilterStringStore, FoundPetsStore, ZipcodesWithInfoStore [shape=rect, style=filled, fillcolor="#E69027"];
     subgraph ReactComponents {
         rank=same;
-        FoundPetsList, ResturantInspectionsList, FoundPetsToResturantInspectionsRatiosList, ZipcodeFilterField [shape=rect, style=filled, fillcolor="#FFFF88"];
+        FoundPetsList, ResturantInspectionsList, FoundPetsToResturantInspectionsRatiosList, ZipcodeFilterField [shape=polygon, distortion=0.0625, style=filled, fillcolor="#FAE66C"];
     }
 
     FetchFoundPetsAction -> FoundPetsAPIUtils -> FetchFoundPetsCompletedAction, FetchFoundPetsFailedAction;
