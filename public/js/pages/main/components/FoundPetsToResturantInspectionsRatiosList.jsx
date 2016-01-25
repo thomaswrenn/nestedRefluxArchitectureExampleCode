@@ -3,6 +3,7 @@ var _ = require('lodash');
 
 var FoundPetsToResturantInspectionsRatiosStore = require('../stores/FoundPetsToResturantInspectionsRatiosStore');
 
+var ListOfThings = require('./ListOfThings');
 var FoundPetsToResturantInspectionsRatio = require('./FoundPetsToResturantInspectionsRatio');
 
 var FoundPetsToResturantInspectionsRatiosList = React.createClass({
@@ -24,7 +25,7 @@ var FoundPetsToResturantInspectionsRatiosList = React.createClass({
         var self = this;
         var isLoading = FoundPetsToResturantInspectionsRatiosStore.isLoading;
         var foundPetsToResturantInspectionsRatios = FoundPetsToResturantInspectionsRatiosStore.foundPetsToResturantInspectionsRatios;
-        if (isLoading || foundPetsToResturantInspectionsRatios.length === 0) {
+        if (isLoading) {
             foundPetsToResturantInspectionsRatios = self.state.foundPetsToResturantInspectionsRatios;
         }
 
@@ -35,18 +36,15 @@ var FoundPetsToResturantInspectionsRatiosList = React.createClass({
     },
     render() {
         return (
-            <div>
-                <div>Found Pets to Resturant Inspections Ratio</div>
-                <div>
-                    {
-                        _.map(this.state.foundPetsToResturantInspectionsRatios, (foundPetsToResturantInspectionsRatio) => {
-                            return (
-                                <FoundPetsToResturantInspectionsRatio {...foundPetsToResturantInspectionsRatio}/>
-                            );
-                        })
-                    }
-                </div>
-            </div>
+            <ListOfThings title="Found Pets to Resturant Inspections Ratio">
+                {
+                    _.map(this.state.foundPetsToResturantInspectionsRatios, (foundPetsToResturantInspectionsRatio, zipcode) => {
+                        return (
+                            <FoundPetsToResturantInspectionsRatio zipcode={zipcode} {...foundPetsToResturantInspectionsRatio}/>
+                        );
+                    })
+                }
+            </ListOfThings>
         );
     }
 });

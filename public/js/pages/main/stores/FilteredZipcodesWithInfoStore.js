@@ -32,9 +32,9 @@ var FilteredZipcodesWithInfoStore = Reflux.createStore({
     },
     filterZipcodesGivenFilterString(zipcodesWithInfo, zipcodeFilterString) {
         return (zipcodeFilterString !== '')?
-            _.pick(zipcodesWithInfo, (value, key) => {
-                return (key.toString().indexOf(zipcodeFilterString) === 0);
-            }):
+            _.pick(zipcodesWithInfo, _.keys(zipcodesWithInfo).filter((key) => {
+                return _.startsWith(key, zipcodeFilterString);
+            })):
             zipcodesWithInfo;
     }
 });

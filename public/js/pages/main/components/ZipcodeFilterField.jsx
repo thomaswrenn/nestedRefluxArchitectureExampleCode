@@ -3,8 +3,10 @@ var _ = require('lodash');
 
 var Actions = require('../actions/Actions');
 
+var ZipcodeFilterStringStore = require('../stores/ZipcodeFilterStringStore');
+
 var ZipcodeFilterField = React.createClass({
-    componentWillMount() {
+    componentDidMount() {
         this.throttledUpdateZipcodeFilterString = _.throttle((newValue) => {
             Actions.updateZipcodeFilterString(newValue);
         }, 500);
@@ -12,7 +14,7 @@ var ZipcodeFilterField = React.createClass({
     render() {
         return (
             <div>
-                <div>ZipcodeFilterField</div>
+                <div>Zipcode Filter Field</div>
                 <input onChange={this.onTyping} />
             </div>
         );

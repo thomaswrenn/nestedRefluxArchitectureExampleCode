@@ -3,6 +3,7 @@ var _ = require('lodash');
 
 var FilteredResturantInspectionsStore = require('../stores/FilteredResturantInspectionsStore');
 
+var ListOfThings = require('./ListOfThings');
 var ResturantInspection = require('./ResturantInspection');
 
 var ResturantInspectionsList = React.createClass({
@@ -24,7 +25,7 @@ var ResturantInspectionsList = React.createClass({
         var self = this;
         var isLoading = FilteredResturantInspectionsStore.isLoading;
         var filteredResturantInspections = FilteredResturantInspectionsStore.filteredResturantInspections;
-        if (isLoading || filteredResturantInspections.length === 0) {
+        if (isLoading) {
             filteredResturantInspections = self.state.filteredResturantInspections;
         }
 
@@ -35,18 +36,15 @@ var ResturantInspectionsList = React.createClass({
     },
     render() {
         return (
-            <div>
-                <div>Resturant Inspections</div>
-                <div>
-                    {
-                        _.map(this.state.filteredResturantInspections, (resturantInspection) => {
-                            return (
-                                <ResturantInspection {...resturantInspection}/>
-                            );
-                        })
-                    }
-                </div>
-            </div>
+            <ListOfThings title={"Resturant Inspections"}>
+                {
+                    _.map(this.state.filteredResturantInspections, (resturantInspection) => {
+                        return (
+                            <ResturantInspection {...resturantInspection}/>
+                        );
+                    })
+                }
+            </ListOfThings>
         );
     }
 });

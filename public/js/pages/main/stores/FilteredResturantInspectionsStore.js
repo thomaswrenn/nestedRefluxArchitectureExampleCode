@@ -31,8 +31,8 @@ var FilteredResturantInspectionsStore = Reflux.createStore({
         });
     },
     filterResturantInspectionsGivenZipcodeFilterString(resturantInspections, zipcodeFilterString) {
-        return _.filter(resturantInspections, (value, key) => {
-            return true;
+        return _.filter(resturantInspections, (resturantInspection) => {
+            return _.startsWith(resturantInspection.zip_code, zipcodeFilterString);
         });
     }
 });

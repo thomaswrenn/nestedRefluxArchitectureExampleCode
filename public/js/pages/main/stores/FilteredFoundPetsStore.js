@@ -31,8 +31,8 @@ var FilteredFoundPetsStore = Reflux.createStore({
         });
     },
     filterFoundPetsGivenZipcodeFilterString(foundPets, zipcodeFilterString) {
-        return _.filter(foundPets, (value, key) => {
-            return true;
+        return _.filter(foundPets, (foundPet) => {
+            return _.startsWith(foundPet.zip, zipcodeFilterString);
         });
     }
 });

@@ -3,6 +3,7 @@ var _ = require('lodash');
 
 var FilteredFoundPetsStore = require('../stores/FilteredFoundPetsStore');
 
+var ListOfThings = require('./ListOfThings');
 var FoundPet = require('./FoundPet');
 
 var ResturantInspectionsList = React.createClass({
@@ -24,7 +25,7 @@ var ResturantInspectionsList = React.createClass({
         var self = this;
         var isLoading = FilteredFoundPetsStore.isLoading;
         var filteredFoundPets = FilteredFoundPetsStore.filteredFoundPets;
-        if (isLoading || filteredFoundPets.length === 0) {
+        if (isLoading) {
             filteredFoundPets = self.state.filteredFoundPets;
         }
 
@@ -35,18 +36,15 @@ var ResturantInspectionsList = React.createClass({
     },
     render() {
         return (
-            <div>
-                <div>Found Pets</div>
-                <div>
-                    {
-                        _.map(this.state.filteredFoundPets, (foundPet) => {
-                            return (
-                                <FoundPet {...foundPet}/>
-                            );
-                        })
-                    }
-                </div>
-            </div>
+            <ListOfThings title="Found Pets">
+                {
+                    _.map(this.state.filteredFoundPets, (foundPet) => {
+                        return (
+                            <FoundPet {...foundPet}/>
+                        );
+                    })
+                }
+            </ListOfThings>
         );
     }
 });
