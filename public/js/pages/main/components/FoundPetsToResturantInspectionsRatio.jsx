@@ -14,8 +14,7 @@ var FoundPetsToResturantInspectionsRatio = React.createClass({
                     _.padStart(ps.foundPets.toString(), 3, he.decode('&nbsp;')) +
                     ' / ' +
                     _.padStart(ps.resturantInspections.toString(), 3, he.decode('&nbsp;')) +
-                    ') – ' +
-                    ps.zipcode
+                    ')'
                 }
             </Thing>
         );

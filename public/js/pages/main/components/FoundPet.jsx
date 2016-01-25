@@ -7,10 +7,10 @@ var FoundPet = React.createClass({
         var ps = this.props;
         var height = 45;
         return (
-            <Thing style={{maxHeight: height}}>
+            <Thing style={{height: height}}>
                 {
                     (ps.image)?
-                        (<img style={{maxHeight: height}} src={ps.image.url}/>):
+                        (<img style={{height: height}} src={ps.image.url}/>):
                         ('No Image')
                 }
                 &nbsp;–&nbsp;{ps.zip}

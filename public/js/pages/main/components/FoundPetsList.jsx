@@ -38,11 +38,20 @@ var ResturantInspectionsList = React.createClass({
         return (
             <ListOfThings title="Found Pets">
                 {
-                    _.map(this.state.filteredFoundPets, (foundPet) => {
-                        return (
-                            <FoundPet {...foundPet}/>
-                        );
-                    })
+                    _(this.state.filteredFoundPets)
+                        .groupBy('zip')
+                        .map((foundPetZipGroup, zipcode) => {
+                            return (
+                                [<h3>{zipcode}</h3>].concat(
+                                    _.map(foundPetZipGroup, (foundPet) => {
+                                        return (
+                                            <FoundPet {...foundPet}/>
+                                        );
+                                    })
+                                )
+                            );
+                        })
+                        .value()
                 }
             </ListOfThings>
         );

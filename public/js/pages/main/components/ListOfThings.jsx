@@ -6,8 +6,8 @@ var Thing = require('./Thing');
 var ListOfThings = React.createClass({
     render() {
         return (
-            <div style={{padding: 100}}>
-                <div>{this.props.title}</div>
+            <div style={{padding: 40, width: 400}}>
+                <h2 style={{whiteSpace: 'nowrap', overflow: 'hidden'}}>{this.props.title}</h2>
                 <div>
                     {this.props.children}
                 </div>

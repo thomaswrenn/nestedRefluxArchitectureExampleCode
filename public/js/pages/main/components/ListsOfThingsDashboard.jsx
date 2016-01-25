@@ -9,7 +9,9 @@ var ListsOfThingsDashboard = React.createClass({
     render() {
         return (
             <div>
-                <ZipcodeFilterField/>
+                <div style={{width: '100%',textAlign:'center'}}>
+                    <ZipcodeFilterField/>
+                </div>
                 <div style={{display: 'flex', flexDirection: 'row'}}>
                     <FoundPetsToResturantInspectionsRatiosList />
                     <FoundPetsList />

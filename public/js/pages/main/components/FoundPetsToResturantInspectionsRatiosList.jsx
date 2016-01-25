@@ -40,7 +40,10 @@ var FoundPetsToResturantInspectionsRatiosList = React.createClass({
                 {
                     _.map(this.state.foundPetsToResturantInspectionsRatios, (foundPetsToResturantInspectionsRatio, zipcode) => {
                         return (
-                            <FoundPetsToResturantInspectionsRatio zipcode={zipcode} {...foundPetsToResturantInspectionsRatio}/>
+                            <div>
+                                <h3>{zipcode}</h3>
+                                <FoundPetsToResturantInspectionsRatio {...foundPetsToResturantInspectionsRatio}/>
+                            </div>
                         );
                     })
                 }

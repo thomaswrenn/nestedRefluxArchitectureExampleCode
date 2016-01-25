@@ -38,11 +38,20 @@ var ResturantInspectionsList = React.createClass({
         return (
             <ListOfThings title={"Resturant Inspections"}>
                 {
-                    _.map(this.state.filteredResturantInspections, (resturantInspection) => {
-                        return (
-                            <ResturantInspection {...resturantInspection}/>
-                        );
-                    })
+                    _(this.state.filteredResturantInspections)
+                        .groupBy('zip_code')
+                        .map((resturantInspectionZipGroup, zipcode) => {
+                            return (
+                                [<h3>{zipcode}</h3>].concat(
+                                    _.map(resturantInspectionZipGroup, (resturantInspection) => {
+                                        return (
+                                            <ResturantInspection {...resturantInspection}/>
+                                        );
+                                    })
+                                )
+                            );
+                        })
+                        .value()
                 }
             </ListOfThings>
         );

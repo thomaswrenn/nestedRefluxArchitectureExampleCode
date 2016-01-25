@@ -6,9 +6,10 @@ var Thing = React.createClass({
         var ps = this.props;
         var style = _.assign({
             textAlign: 'center',
-            maxHeight: 45,
+            height: 45,
             display: 'flex',
-            alignItems: 'center'
+            alignItems: 'center',
+            margin: 5
         }, ps.style);
         return (
             <div style={style}>
